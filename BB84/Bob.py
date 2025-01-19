@@ -20,6 +20,7 @@ class BobProtocol(NodeProtocol):
         self.sifted_key = []
         self.qber = 0
         self.depolar_noise = DepolarNoiseModel(depolar_rate=dp_rate, time_independent=True)
+        self.encryption_key = ""
 
     def run(self):
         for i in range(self.num_bits):
@@ -77,6 +78,7 @@ class BobProtocol(NodeProtocol):
             self.node.ports["classical_out"].tx_output("OK")
             print("[Bob] Encryption Key: Valid")
         else:
+            self.encryption_key = "Discarded"
             self.node.ports["classical_out"].tx_output("DISCARD")
             print("[Bob] Encryption Key: Discarded")
 
