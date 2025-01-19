@@ -99,6 +99,7 @@ class AliceProtocol(NodeProtocol):
             self.encryption_key = encryption_key_generation(self.sifted_basis, self.raw_bits, self.encryption_key_length)
             print("[Alice] Secure communication of the Encryption Key: Successful")
         else:
+            self.encryption_key = "Discarded"
             print("[Alice] Secure communication of the Encryption Key: Unsuccessful")
             print("[Alice] Key discarded")
 
