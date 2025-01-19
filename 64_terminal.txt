@@ -1,0 +1,2344 @@
+[Alice] Protocol started.
+[Alice] Sent qubit 1/768: Bit=0, Basis=X
+[Bob] Measured qubit 1/768: Result=0, Basis=X
+[Bob] Sent ACK_1
+[Alice] Sent qubit 2/768: Bit=0, Basis=X
+[Bob] Measured qubit 2/768: Result=0, Basis=Z
+[Bob] Sent ACK_2
+[Alice] Sent qubit 3/768: Bit=0, Basis=X
+[Bob] Measured qubit 3/768: Result=1, Basis=Z
+[Bob] Sent ACK_3
+[Alice] Sent qubit 4/768: Bit=0, Basis=X
+[Bob] Measured qubit 4/768: Result=0, Basis=X
+[Bob] Sent ACK_4
+[Alice] Sent qubit 5/768: Bit=0, Basis=Z
+[Bob] Measured qubit 5/768: Result=1, Basis=X
+[Bob] Sent ACK_5
+[Alice] Sent qubit 6/768: Bit=1, Basis=X
+[Bob] Measured qubit 6/768: Result=0, Basis=Z
+[Bob] Sent ACK_6
+[Alice] Sent qubit 7/768: Bit=0, Basis=Z
+[Bob] Measured qubit 7/768: Result=0, Basis=X
+[Bob] Sent ACK_7
+[Alice] Sent qubit 8/768: Bit=0, Basis=Z
+[Bob] Measured qubit 8/768: Result=1, Basis=X
+[Bob] Sent ACK_8
+[Alice] Sent qubit 9/768: Bit=0, Basis=X
+[Bob] Measured qubit 9/768: Result=0, Basis=X
+[Bob] Sent ACK_9
+[Alice] Sent qubit 10/768: Bit=1, Basis=Z
+[Bob] Measured qubit 10/768: Result=1, Basis=Z
+[Bob] Sent ACK_10
+[Alice] Sent qubit 11/768: Bit=1, Basis=Z
+[Bob] Measured qubit 11/768: Result=0, Basis=X
+[Bob] Sent ACK_11
+[Alice] Sent qubit 12/768: Bit=0, Basis=X
+[Bob] Measured qubit 12/768: Result=0, Basis=X
+[Bob] Sent ACK_12
+[Alice] Sent qubit 13/768: Bit=0, Basis=X
+[Bob] Measured qubit 13/768: Result=0, Basis=X
+[Bob] Sent ACK_13
+[Alice] Sent qubit 14/768: Bit=1, Basis=Z
+[Bob] Measured qubit 14/768: Result=1, Basis=X
+[Bob] Sent ACK_14
+[Alice] Sent qubit 15/768: Bit=1, Basis=Z
+[Bob] Measured qubit 15/768: Result=1, Basis=Z
+[Bob] Sent ACK_15
+[Alice] Sent qubit 16/768: Bit=0, Basis=X
+[Bob] Measured qubit 16/768: Result=0, Basis=X
+[Bob] Sent ACK_16
+[Alice] Sent qubit 17/768: Bit=0, Basis=X
+[Bob] Measured qubit 17/768: Result=0, Basis=Z
+[Bob] Sent ACK_17
+[Alice] Sent qubit 18/768: Bit=1, Basis=Z
+[Bob] Measured qubit 18/768: Result=1, Basis=X
+[Bob] Sent ACK_18
+[Alice] Sent qubit 19/768: Bit=0, Basis=X
+[Bob] Measured qubit 19/768: Result=1, Basis=Z
+[Bob] Sent ACK_19
+[Alice] Sent qubit 20/768: Bit=1, Basis=X
+[Bob] Measured qubit 20/768: Result=1, Basis=Z
+[Bob] Sent ACK_20
+[Alice] Sent qubit 21/768: Bit=0, Basis=Z
+[Bob] Measured qubit 21/768: Result=1, Basis=X
+[Bob] Sent ACK_21
+[Alice] Sent qubit 22/768: Bit=0, Basis=Z
+[Bob] Measured qubit 22/768: Result=1, Basis=X
+[Bob] Sent ACK_22
+[Alice] Sent qubit 23/768: Bit=1, Basis=X
+[Bob] Measured qubit 23/768: Result=0, Basis=Z
+[Bob] Sent ACK_23
+[Alice] Sent qubit 24/768: Bit=0, Basis=Z
+[Bob] Measured qubit 24/768: Result=0, Basis=Z
+[Bob] Sent ACK_24
+[Alice] Sent qubit 25/768: Bit=0, Basis=Z
+[Bob] Measured qubit 25/768: Result=0, Basis=Z
+[Bob] Sent ACK_25
+[Alice] Sent qubit 26/768: Bit=1, Basis=X
+[Bob] Measured qubit 26/768: Result=0, Basis=Z
+[Bob] Sent ACK_26
+[Alice] Sent qubit 27/768: Bit=0, Basis=Z
+[Bob] Measured qubit 27/768: Result=0, Basis=Z
+[Bob] Sent ACK_27
+[Alice] Sent qubit 28/768: Bit=0, Basis=X
+[Bob] Measured qubit 28/768: Result=0, Basis=X
+[Bob] Sent ACK_28
+[Alice] Sent qubit 29/768: Bit=1, Basis=Z
+[Bob] Measured qubit 29/768: Result=1, Basis=Z
+[Bob] Sent ACK_29
+[Alice] Sent qubit 30/768: Bit=1, Basis=Z
+[Bob] Measured qubit 30/768: Result=1, Basis=X
+[Bob] Sent ACK_30
+[Alice] Sent qubit 31/768: Bit=0, Basis=Z
+[Bob] Measured qubit 31/768: Result=1, Basis=X
+[Bob] Sent ACK_31
+[Alice] Sent qubit 32/768: Bit=0, Basis=X
+[Bob] Measured qubit 32/768: Result=0, Basis=X
+[Bob] Sent ACK_32
+[Alice] Sent qubit 33/768: Bit=0, Basis=Z
+[Bob] Measured qubit 33/768: Result=0, Basis=Z
+[Bob] Sent ACK_33
+[Alice] Sent qubit 34/768: Bit=1, Basis=Z
+[Bob] Measured qubit 34/768: Result=1, Basis=X
+[Bob] Sent ACK_34
+[Alice] Sent qubit 35/768: Bit=1, Basis=X
+[Bob] Measured qubit 35/768: Result=0, Basis=Z
+[Bob] Sent ACK_35
+[Alice] Sent qubit 36/768: Bit=1, Basis=Z
+[Bob] Measured qubit 36/768: Result=1, Basis=Z
+[Bob] Sent ACK_36
+[Alice] Sent qubit 37/768: Bit=0, Basis=X
+[Bob] Measured qubit 37/768: Result=1, Basis=Z
+[Bob] Sent ACK_37
+[Alice] Sent qubit 38/768: Bit=0, Basis=Z
+[Bob] Measured qubit 38/768: Result=1, Basis=X
+[Bob] Sent ACK_38
+[Alice] Sent qubit 39/768: Bit=0, Basis=Z
+[Bob] Measured qubit 39/768: Result=0, Basis=Z
+[Bob] Sent ACK_39
+[Alice] Sent qubit 40/768: Bit=0, Basis=Z
+[Bob] Measured qubit 40/768: Result=0, Basis=Z
+[Bob] Sent ACK_40
+[Alice] Sent qubit 41/768: Bit=0, Basis=X
+[Bob] Measured qubit 41/768: Result=1, Basis=Z
+[Bob] Sent ACK_41
+[Alice] Sent qubit 42/768: Bit=0, Basis=X
+[Bob] Measured qubit 42/768: Result=1, Basis=Z
+[Bob] Sent ACK_42
+[Alice] Sent qubit 43/768: Bit=1, Basis=X
+[Bob] Measured qubit 43/768: Result=1, Basis=X
+[Bob] Sent ACK_43
+[Alice] Sent qubit 44/768: Bit=1, Basis=Z
+[Bob] Measured qubit 44/768: Result=1, Basis=Z
+[Bob] Sent ACK_44
+[Alice] Sent qubit 45/768: Bit=0, Basis=X
+[Bob] Measured qubit 45/768: Result=0, Basis=X
+[Bob] Sent ACK_45
+[Alice] Sent qubit 46/768: Bit=0, Basis=X
+[Bob] Measured qubit 46/768: Result=0, Basis=X
+[Bob] Sent ACK_46
+[Alice] Sent qubit 47/768: Bit=0, Basis=X
+[Bob] Measured qubit 47/768: Result=0, Basis=X
+[Bob] Sent ACK_47
+[Alice] Sent qubit 48/768: Bit=1, Basis=Z
+[Bob] Measured qubit 48/768: Result=1, Basis=Z
+[Bob] Sent ACK_48
+[Alice] Sent qubit 49/768: Bit=1, Basis=X
+[Bob] Measured qubit 49/768: Result=0, Basis=Z
+[Bob] Sent ACK_49
+[Alice] Sent qubit 50/768: Bit=1, Basis=Z
+[Bob] Measured qubit 50/768: Result=1, Basis=Z
+[Bob] Sent ACK_50
+[Alice] Sent qubit 51/768: Bit=0, Basis=Z
+[Bob] Measured qubit 51/768: Result=0, Basis=Z
+[Bob] Sent ACK_51
+[Alice] Sent qubit 52/768: Bit=0, Basis=X
+[Bob] Measured qubit 52/768: Result=1, Basis=Z
+[Bob] Sent ACK_52
+[Alice] Sent qubit 53/768: Bit=0, Basis=Z
+[Bob] Measured qubit 53/768: Result=0, Basis=Z
+[Bob] Sent ACK_53
+[Alice] Sent qubit 54/768: Bit=0, Basis=Z
+[Bob] Measured qubit 54/768: Result=1, Basis=X
+[Bob] Sent ACK_54
+[Alice] Sent qubit 55/768: Bit=1, Basis=Z
+[Bob] Measured qubit 55/768: Result=1, Basis=X
+[Bob] Sent ACK_55
+[Alice] Sent qubit 56/768: Bit=0, Basis=X
+[Bob] Measured qubit 56/768: Result=0, Basis=X
+[Bob] Sent ACK_56
+[Alice] Sent qubit 57/768: Bit=1, Basis=Z
+[Bob] Measured qubit 57/768: Result=1, Basis=X
+[Bob] Sent ACK_57
+[Alice] Sent qubit 58/768: Bit=1, Basis=Z
+[Bob] Measured qubit 58/768: Result=1, Basis=Z
+[Bob] Sent ACK_58
+[Alice] Sent qubit 59/768: Bit=1, Basis=Z
+[Bob] Measured qubit 59/768: Result=1, Basis=Z
+[Bob] Sent ACK_59
+[Alice] Sent qubit 60/768: Bit=1, Basis=Z
+[Bob] Measured qubit 60/768: Result=0, Basis=X
+[Bob] Sent ACK_60
+[Alice] Sent qubit 61/768: Bit=1, Basis=X
+[Bob] Measured qubit 61/768: Result=1, Basis=X
+[Bob] Sent ACK_61
+[Alice] Sent qubit 62/768: Bit=0, Basis=Z
+[Bob] Measured qubit 62/768: Result=0, Basis=Z
+[Bob] Sent ACK_62
+[Alice] Sent qubit 63/768: Bit=1, Basis=X
+[Bob] Measured qubit 63/768: Result=1, Basis=Z
+[Bob] Sent ACK_63
+[Alice] Sent qubit 64/768: Bit=0, Basis=Z
+[Bob] Measured qubit 64/768: Result=0, Basis=Z
+[Bob] Sent ACK_64
+[Alice] Sent qubit 65/768: Bit=1, Basis=X
+[Bob] Measured qubit 65/768: Result=0, Basis=Z
+[Bob] Sent ACK_65
+[Alice] Sent qubit 66/768: Bit=0, Basis=Z
+[Bob] Measured qubit 66/768: Result=0, Basis=Z
+[Bob] Sent ACK_66
+[Alice] Sent qubit 67/768: Bit=0, Basis=X
+[Bob] Measured qubit 67/768: Result=0, Basis=X
+[Bob] Sent ACK_67
+[Alice] Sent qubit 68/768: Bit=1, Basis=X
+[Bob] Measured qubit 68/768: Result=1, Basis=X
+[Bob] Sent ACK_68
+[Alice] Sent qubit 69/768: Bit=1, Basis=Z
+[Bob] Measured qubit 69/768: Result=0, Basis=X
+[Bob] Sent ACK_69
+[Alice] Sent qubit 70/768: Bit=1, Basis=Z
+[Bob] Measured qubit 70/768: Result=1, Basis=Z
+[Bob] Sent ACK_70
+[Alice] Sent qubit 71/768: Bit=1, Basis=X
+[Bob] Measured qubit 71/768: Result=0, Basis=Z
+[Bob] Sent ACK_71
+[Alice] Sent qubit 72/768: Bit=1, Basis=X
+[Bob] Measured qubit 72/768: Result=1, Basis=Z
+[Bob] Sent ACK_72
+[Alice] Sent qubit 73/768: Bit=1, Basis=X
+[Bob] Measured qubit 73/768: Result=1, Basis=Z
+[Bob] Sent ACK_73
+[Alice] Sent qubit 74/768: Bit=1, Basis=X
+[Bob] Measured qubit 74/768: Result=1, Basis=Z
+[Bob] Sent ACK_74
+[Alice] Sent qubit 75/768: Bit=0, Basis=Z
+[Bob] Measured qubit 75/768: Result=0, Basis=Z
+[Bob] Sent ACK_75
+[Alice] Sent qubit 76/768: Bit=0, Basis=X
+[Bob] Measured qubit 76/768: Result=0, Basis=X
+[Bob] Sent ACK_76
+[Alice] Sent qubit 77/768: Bit=0, Basis=Z
+[Bob] Measured qubit 77/768: Result=0, Basis=X
+[Bob] Sent ACK_77
+[Alice] Sent qubit 78/768: Bit=0, Basis=Z
+[Bob] Measured qubit 78/768: Result=0, Basis=Z
+[Bob] Sent ACK_78
+[Alice] Sent qubit 79/768: Bit=1, Basis=Z
+[Bob] Measured qubit 79/768: Result=0, Basis=X
+[Bob] Sent ACK_79
+[Alice] Sent qubit 80/768: Bit=1, Basis=Z
+[Bob] Measured qubit 80/768: Result=1, Basis=Z
+[Bob] Sent ACK_80
+[Alice] Sent qubit 81/768: Bit=0, Basis=X
+[Bob] Measured qubit 81/768: Result=0, Basis=X
+[Bob] Sent ACK_81
+[Alice] Sent qubit 82/768: Bit=0, Basis=X
+[Bob] Measured qubit 82/768: Result=0, Basis=Z
+[Bob] Sent ACK_82
+[Alice] Sent qubit 83/768: Bit=1, Basis=X
+[Bob] Measured qubit 83/768: Result=0, Basis=Z
+[Bob] Sent ACK_83
+[Alice] Sent qubit 84/768: Bit=1, Basis=Z
+[Bob] Measured qubit 84/768: Result=1, Basis=X
+[Bob] Sent ACK_84
+[Alice] Sent qubit 85/768: Bit=1, Basis=Z
+[Bob] Measured qubit 85/768: Result=1, Basis=X
+[Bob] Sent ACK_85
+[Alice] Sent qubit 86/768: Bit=1, Basis=Z
+[Bob] Measured qubit 86/768: Result=1, Basis=Z
+[Bob] Sent ACK_86
+[Alice] Sent qubit 87/768: Bit=1, Basis=X
+[Bob] Measured qubit 87/768: Result=1, Basis=Z
+[Bob] Sent ACK_87
+[Alice] Sent qubit 88/768: Bit=0, Basis=X
+[Bob] Measured qubit 88/768: Result=0, Basis=Z
+[Bob] Sent ACK_88
+[Alice] Sent qubit 89/768: Bit=0, Basis=Z
+[Bob] Measured qubit 89/768: Result=1, Basis=X
+[Bob] Sent ACK_89
+[Alice] Sent qubit 90/768: Bit=0, Basis=Z
+[Bob] Measured qubit 90/768: Result=0, Basis=Z
+[Bob] Sent ACK_90
+[Alice] Sent qubit 91/768: Bit=1, Basis=X
+[Bob] Measured qubit 91/768: Result=1, Basis=X
+[Bob] Sent ACK_91
+[Alice] Sent qubit 92/768: Bit=1, Basis=Z
+[Bob] Measured qubit 92/768: Result=1, Basis=X
+[Bob] Sent ACK_92
+[Alice] Sent qubit 93/768: Bit=0, Basis=X
+[Bob] Measured qubit 93/768: Result=0, Basis=X
+[Bob] Sent ACK_93
+[Alice] Sent qubit 94/768: Bit=1, Basis=Z
+[Bob] Measured qubit 94/768: Result=1, Basis=Z
+[Bob] Sent ACK_94
+[Alice] Sent qubit 95/768: Bit=1, Basis=X
+[Bob] Measured qubit 95/768: Result=1, Basis=X
+[Bob] Sent ACK_95
+[Alice] Sent qubit 96/768: Bit=1, Basis=X
+[Bob] Measured qubit 96/768: Result=1, Basis=X
+[Bob] Sent ACK_96
+[Alice] Sent qubit 97/768: Bit=1, Basis=Z
+[Bob] Measured qubit 97/768: Result=1, Basis=Z
+[Bob] Sent ACK_97
+[Alice] Sent qubit 98/768: Bit=0, Basis=X
+[Bob] Measured qubit 98/768: Result=1, Basis=Z
+[Bob] Sent ACK_98
+[Alice] Sent qubit 99/768: Bit=1, Basis=X
+[Bob] Measured qubit 99/768: Result=1, Basis=X
+[Bob] Sent ACK_99
+[Alice] Sent qubit 100/768: Bit=0, Basis=X
+[Bob] Measured qubit 100/768: Result=0, Basis=X
+[Bob] Sent ACK_100
+[Alice] Sent qubit 101/768: Bit=1, Basis=X
+[Bob] Measured qubit 101/768: Result=1, Basis=Z
+[Bob] Sent ACK_101
+[Alice] Sent qubit 102/768: Bit=0, Basis=Z
+[Bob] Measured qubit 102/768: Result=1, Basis=X
+[Bob] Sent ACK_102
+[Alice] Sent qubit 103/768: Bit=0, Basis=Z
+[Bob] Measured qubit 103/768: Result=0, Basis=Z
+[Bob] Sent ACK_103
+[Alice] Sent qubit 104/768: Bit=1, Basis=Z
+[Bob] Measured qubit 104/768: Result=1, Basis=X
+[Bob] Sent ACK_104
+[Alice] Sent qubit 105/768: Bit=1, Basis=X
+[Bob] Measured qubit 105/768: Result=1, Basis=X
+[Bob] Sent ACK_105
+[Alice] Sent qubit 106/768: Bit=1, Basis=X
+[Bob] Measured qubit 106/768: Result=1, Basis=X
+[Bob] Sent ACK_106
+[Alice] Sent qubit 107/768: Bit=0, Basis=X
+[Bob] Measured qubit 107/768: Result=1, Basis=Z
+[Bob] Sent ACK_107
+[Alice] Sent qubit 108/768: Bit=0, Basis=X
+[Bob] Measured qubit 108/768: Result=0, Basis=Z
+[Bob] Sent ACK_108
+[Alice] Sent qubit 109/768: Bit=1, Basis=X
+[Bob] Measured qubit 109/768: Result=0, Basis=Z
+[Bob] Sent ACK_109
+[Alice] Sent qubit 110/768: Bit=0, Basis=X
+[Bob] Measured qubit 110/768: Result=0, Basis=X
+[Bob] Sent ACK_110
+[Alice] Sent qubit 111/768: Bit=1, Basis=X
+[Bob] Measured qubit 111/768: Result=1, Basis=X
+[Bob] Sent ACK_111
+[Alice] Sent qubit 112/768: Bit=1, Basis=X
+[Bob] Measured qubit 112/768: Result=1, Basis=X
+[Bob] Sent ACK_112
+[Alice] Sent qubit 113/768: Bit=0, Basis=X
+[Bob] Measured qubit 113/768: Result=0, Basis=X
+[Bob] Sent ACK_113
+[Alice] Sent qubit 114/768: Bit=0, Basis=X
+[Bob] Measured qubit 114/768: Result=1, Basis=Z
+[Bob] Sent ACK_114
+[Alice] Sent qubit 115/768: Bit=1, Basis=Z
+[Bob] Measured qubit 115/768: Result=1, Basis=X
+[Bob] Sent ACK_115
+[Alice] Sent qubit 116/768: Bit=1, Basis=Z
+[Bob] Measured qubit 116/768: Result=0, Basis=X
+[Bob] Sent ACK_116
+[Alice] Sent qubit 117/768: Bit=0, Basis=Z
+[Bob] Measured qubit 117/768: Result=0, Basis=Z
+[Bob] Sent ACK_117
+[Alice] Sent qubit 118/768: Bit=0, Basis=X
+[Bob] Measured qubit 118/768: Result=0, Basis=Z
+[Bob] Sent ACK_118
+[Alice] Sent qubit 119/768: Bit=0, Basis=Z
+[Bob] Measured qubit 119/768: Result=1, Basis=X
+[Bob] Sent ACK_119
+[Alice] Sent qubit 120/768: Bit=1, Basis=X
+[Bob] Measured qubit 120/768: Result=1, Basis=Z
+[Bob] Sent ACK_120
+[Alice] Sent qubit 121/768: Bit=0, Basis=Z
+[Bob] Measured qubit 121/768: Result=0, Basis=X
+[Bob] Sent ACK_121
+[Alice] Sent qubit 122/768: Bit=0, Basis=X
+[Bob] Measured qubit 122/768: Result=0, Basis=X
+[Bob] Sent ACK_122
+[Alice] Sent qubit 123/768: Bit=1, Basis=Z
+[Bob] Measured qubit 123/768: Result=1, Basis=Z
+[Bob] Sent ACK_123
+[Alice] Sent qubit 124/768: Bit=1, Basis=Z
+[Bob] Measured qubit 124/768: Result=1, Basis=Z
+[Bob] Sent ACK_124
+[Alice] Sent qubit 125/768: Bit=0, Basis=Z
+[Bob] Measured qubit 125/768: Result=1, Basis=X
+[Bob] Sent ACK_125
+[Alice] Sent qubit 126/768: Bit=0, Basis=X
+[Bob] Measured qubit 126/768: Result=1, Basis=Z
+[Bob] Sent ACK_126
+[Alice] Sent qubit 127/768: Bit=1, Basis=Z
+[Bob] Measured qubit 127/768: Result=1, Basis=Z
+[Bob] Sent ACK_127
+[Alice] Sent qubit 128/768: Bit=0, Basis=X
+[Bob] Measured qubit 128/768: Result=1, Basis=Z
+[Bob] Sent ACK_128
+[Alice] Sent qubit 129/768: Bit=1, Basis=X
+[Bob] Measured qubit 129/768: Result=0, Basis=Z
+[Bob] Sent ACK_129
+[Alice] Sent qubit 130/768: Bit=1, Basis=Z
+[Bob] Measured qubit 130/768: Result=1, Basis=Z
+[Bob] Sent ACK_130
+[Alice] Sent qubit 131/768: Bit=0, Basis=Z
+[Bob] Measured qubit 131/768: Result=0, Basis=Z
+[Bob] Sent ACK_131
+[Alice] Sent qubit 132/768: Bit=0, Basis=X
+[Bob] Measured qubit 132/768: Result=0, Basis=X
+[Bob] Sent ACK_132
+[Alice] Sent qubit 133/768: Bit=0, Basis=X
+[Bob] Measured qubit 133/768: Result=0, Basis=X
+[Bob] Sent ACK_133
+[Alice] Sent qubit 134/768: Bit=1, Basis=Z
+[Bob] Measured qubit 134/768: Result=0, Basis=X
+[Bob] Sent ACK_134
+[Alice] Sent qubit 135/768: Bit=0, Basis=Z
+[Bob] Measured qubit 135/768: Result=0, Basis=X
+[Bob] Sent ACK_135
+[Alice] Sent qubit 136/768: Bit=0, Basis=Z
+[Bob] Measured qubit 136/768: Result=1, Basis=X
+[Bob] Sent ACK_136
+[Alice] Sent qubit 137/768: Bit=1, Basis=Z
+[Bob] Measured qubit 137/768: Result=1, Basis=X
+[Bob] Sent ACK_137
+[Alice] Sent qubit 138/768: Bit=0, Basis=X
+[Bob] Measured qubit 138/768: Result=1, Basis=Z
+[Bob] Sent ACK_138
+[Alice] Sent qubit 139/768: Bit=1, Basis=X
+[Bob] Measured qubit 139/768: Result=1, Basis=X
+[Bob] Sent ACK_139
+[Alice] Sent qubit 140/768: Bit=1, Basis=Z
+[Bob] Measured qubit 140/768: Result=1, Basis=Z
+[Bob] Sent ACK_140
+[Alice] Sent qubit 141/768: Bit=1, Basis=Z
+[Bob] Measured qubit 141/768: Result=1, Basis=X
+[Bob] Sent ACK_141
+[Alice] Sent qubit 142/768: Bit=1, Basis=Z
+[Bob] Measured qubit 142/768: Result=1, Basis=Z
+[Bob] Sent ACK_142
+[Alice] Sent qubit 143/768: Bit=1, Basis=X
+[Bob] Measured qubit 143/768: Result=1, Basis=X
+[Bob] Sent ACK_143
+[Alice] Sent qubit 144/768: Bit=0, Basis=X
+[Bob] Measured qubit 144/768: Result=0, Basis=Z
+[Bob] Sent ACK_144
+[Alice] Sent qubit 145/768: Bit=0, Basis=Z
+[Bob] Measured qubit 145/768: Result=0, Basis=Z
+[Bob] Sent ACK_145
+[Alice] Sent qubit 146/768: Bit=1, Basis=Z
+[Bob] Measured qubit 146/768: Result=1, Basis=Z
+[Bob] Sent ACK_146
+[Alice] Sent qubit 147/768: Bit=0, Basis=X
+[Bob] Measured qubit 147/768: Result=1, Basis=Z
+[Bob] Sent ACK_147
+[Alice] Sent qubit 148/768: Bit=1, Basis=X
+[Bob] Measured qubit 148/768: Result=0, Basis=Z
+[Bob] Sent ACK_148
+[Alice] Sent qubit 149/768: Bit=0, Basis=X
+[Bob] Measured qubit 149/768: Result=0, Basis=X
+[Bob] Sent ACK_149
+[Alice] Sent qubit 150/768: Bit=1, Basis=Z
+[Bob] Measured qubit 150/768: Result=1, Basis=X
+[Bob] Sent ACK_150
+[Alice] Sent qubit 151/768: Bit=0, Basis=X
+[Bob] Measured qubit 151/768: Result=0, Basis=X
+[Bob] Sent ACK_151
+[Alice] Sent qubit 152/768: Bit=0, Basis=X
+[Bob] Measured qubit 152/768: Result=1, Basis=Z
+[Bob] Sent ACK_152
+[Alice] Sent qubit 153/768: Bit=1, Basis=Z
+[Bob] Measured qubit 153/768: Result=1, Basis=Z
+[Bob] Sent ACK_153
+[Alice] Sent qubit 154/768: Bit=0, Basis=Z
+[Bob] Measured qubit 154/768: Result=0, Basis=X
+[Bob] Sent ACK_154
+[Alice] Sent qubit 155/768: Bit=1, Basis=X
+[Bob] Measured qubit 155/768: Result=1, Basis=Z
+[Bob] Sent ACK_155
+[Alice] Sent qubit 156/768: Bit=0, Basis=Z
+[Bob] Measured qubit 156/768: Result=0, Basis=Z
+[Bob] Sent ACK_156
+[Alice] Sent qubit 157/768: Bit=1, Basis=X
+[Bob] Measured qubit 157/768: Result=1, Basis=X
+[Bob] Sent ACK_157
+[Alice] Sent qubit 158/768: Bit=0, Basis=Z
+[Bob] Measured qubit 158/768: Result=0, Basis=Z
+[Bob] Sent ACK_158
+[Alice] Sent qubit 159/768: Bit=1, Basis=Z
+[Bob] Measured qubit 159/768: Result=1, Basis=X
+[Bob] Sent ACK_159
+[Alice] Sent qubit 160/768: Bit=1, Basis=Z
+[Bob] Measured qubit 160/768: Result=1, Basis=Z
+[Bob] Sent ACK_160
+[Alice] Sent qubit 161/768: Bit=0, Basis=Z
+[Bob] Measured qubit 161/768: Result=0, Basis=Z
+[Bob] Sent ACK_161
+[Alice] Sent qubit 162/768: Bit=0, Basis=Z
+[Bob] Measured qubit 162/768: Result=1, Basis=X
+[Bob] Sent ACK_162
+[Alice] Sent qubit 163/768: Bit=0, Basis=Z
+[Bob] Measured qubit 163/768: Result=0, Basis=X
+[Bob] Sent ACK_163
+[Alice] Sent qubit 164/768: Bit=1, Basis=X
+[Bob] Measured qubit 164/768: Result=1, Basis=X
+[Bob] Sent ACK_164
+[Alice] Sent qubit 165/768: Bit=1, Basis=Z
+[Bob] Measured qubit 165/768: Result=0, Basis=X
+[Bob] Sent ACK_165
+[Alice] Sent qubit 166/768: Bit=1, Basis=Z
+[Bob] Measured qubit 166/768: Result=1, Basis=X
+[Bob] Sent ACK_166
+[Alice] Sent qubit 167/768: Bit=0, Basis=X
+[Bob] Measured qubit 167/768: Result=0, Basis=Z
+[Bob] Sent ACK_167
+[Alice] Sent qubit 168/768: Bit=1, Basis=Z
+[Bob] Measured qubit 168/768: Result=0, Basis=X
+[Bob] Sent ACK_168
+[Alice] Sent qubit 169/768: Bit=1, Basis=Z
+[Bob] Measured qubit 169/768: Result=1, Basis=X
+[Bob] Sent ACK_169
+[Alice] Sent qubit 170/768: Bit=1, Basis=Z
+[Bob] Measured qubit 170/768: Result=1, Basis=Z
+[Bob] Sent ACK_170
+[Alice] Sent qubit 171/768: Bit=1, Basis=Z
+[Bob] Measured qubit 171/768: Result=1, Basis=Z
+[Bob] Sent ACK_171
+[Alice] Sent qubit 172/768: Bit=1, Basis=Z
+[Bob] Measured qubit 172/768: Result=1, Basis=Z
+[Bob] Sent ACK_172
+[Alice] Sent qubit 173/768: Bit=1, Basis=Z
+[Bob] Measured qubit 173/768: Result=1, Basis=X
+[Bob] Sent ACK_173
+[Alice] Sent qubit 174/768: Bit=0, Basis=Z
+[Bob] Measured qubit 174/768: Result=0, Basis=Z
+[Bob] Sent ACK_174
+[Alice] Sent qubit 175/768: Bit=0, Basis=X
+[Bob] Measured qubit 175/768: Result=0, Basis=X
+[Bob] Sent ACK_175
+[Alice] Sent qubit 176/768: Bit=0, Basis=Z
+[Bob] Measured qubit 176/768: Result=1, Basis=X
+[Bob] Sent ACK_176
+[Alice] Sent qubit 177/768: Bit=1, Basis=X
+[Bob] Measured qubit 177/768: Result=0, Basis=Z
+[Bob] Sent ACK_177
+[Alice] Sent qubit 178/768: Bit=1, Basis=Z
+[Bob] Measured qubit 178/768: Result=1, Basis=X
+[Bob] Sent ACK_178
+[Alice] Sent qubit 179/768: Bit=0, Basis=X
+[Bob] Measured qubit 179/768: Result=1, Basis=Z
+[Bob] Sent ACK_179
+[Alice] Sent qubit 180/768: Bit=0, Basis=Z
+[Bob] Measured qubit 180/768: Result=0, Basis=X
+[Bob] Sent ACK_180
+[Alice] Sent qubit 181/768: Bit=0, Basis=X
+[Bob] Measured qubit 181/768: Result=0, Basis=X
+[Bob] Sent ACK_181
+[Alice] Sent qubit 182/768: Bit=0, Basis=X
+[Bob] Measured qubit 182/768: Result=1, Basis=Z
+[Bob] Sent ACK_182
+[Alice] Sent qubit 183/768: Bit=1, Basis=Z
+[Bob] Measured qubit 183/768: Result=0, Basis=X
+[Bob] Sent ACK_183
+[Alice] Sent qubit 184/768: Bit=1, Basis=X
+[Bob] Measured qubit 184/768: Result=1, Basis=X
+[Bob] Sent ACK_184
+[Alice] Sent qubit 185/768: Bit=0, Basis=X
+[Bob] Measured qubit 185/768: Result=0, Basis=Z
+[Bob] Sent ACK_185
+[Alice] Sent qubit 186/768: Bit=1, Basis=Z
+[Bob] Measured qubit 186/768: Result=0, Basis=X
+[Bob] Sent ACK_186
+[Alice] Sent qubit 187/768: Bit=0, Basis=X
+[Bob] Measured qubit 187/768: Result=0, Basis=X
+[Bob] Sent ACK_187
+[Alice] Sent qubit 188/768: Bit=0, Basis=X
+[Bob] Measured qubit 188/768: Result=0, Basis=X
+[Bob] Sent ACK_188
+[Alice] Sent qubit 189/768: Bit=0, Basis=Z
+[Bob] Measured qubit 189/768: Result=0, Basis=Z
+[Bob] Sent ACK_189
+[Alice] Sent qubit 190/768: Bit=0, Basis=X
+[Bob] Measured qubit 190/768: Result=0, Basis=Z
+[Bob] Sent ACK_190
+[Alice] Sent qubit 191/768: Bit=1, Basis=X
+[Bob] Measured qubit 191/768: Result=1, Basis=Z
+[Bob] Sent ACK_191
+[Alice] Sent qubit 192/768: Bit=0, Basis=X
+[Bob] Measured qubit 192/768: Result=0, Basis=Z
+[Bob] Sent ACK_192
+[Alice] Sent qubit 193/768: Bit=0, Basis=X
+[Bob] Measured qubit 193/768: Result=0, Basis=X
+[Bob] Sent ACK_193
+[Alice] Sent qubit 194/768: Bit=1, Basis=X
+[Bob] Measured qubit 194/768: Result=1, Basis=Z
+[Bob] Sent ACK_194
+[Alice] Sent qubit 195/768: Bit=1, Basis=Z
+[Bob] Measured qubit 195/768: Result=1, Basis=X
+[Bob] Sent ACK_195
+[Alice] Sent qubit 196/768: Bit=0, Basis=Z
+[Bob] Measured qubit 196/768: Result=0, Basis=Z
+[Bob] Sent ACK_196
+[Alice] Sent qubit 197/768: Bit=1, Basis=Z
+[Bob] Measured qubit 197/768: Result=1, Basis=Z
+[Bob] Sent ACK_197
+[Alice] Sent qubit 198/768: Bit=1, Basis=Z
+[Bob] Measured qubit 198/768: Result=0, Basis=X
+[Bob] Sent ACK_198
+[Alice] Sent qubit 199/768: Bit=0, Basis=Z
+[Bob] Measured qubit 199/768: Result=0, Basis=X
+[Bob] Sent ACK_199
+[Alice] Sent qubit 200/768: Bit=0, Basis=X
+[Bob] Measured qubit 200/768: Result=0, Basis=X
+[Bob] Sent ACK_200
+[Alice] Sent qubit 201/768: Bit=0, Basis=Z
+[Bob] Measured qubit 201/768: Result=0, Basis=Z
+[Bob] Sent ACK_201
+[Alice] Sent qubit 202/768: Bit=0, Basis=Z
+[Bob] Measured qubit 202/768: Result=0, Basis=Z
+[Bob] Sent ACK_202
+[Alice] Sent qubit 203/768: Bit=0, Basis=Z
+[Bob] Measured qubit 203/768: Result=0, Basis=Z
+[Bob] Sent ACK_203
+[Alice] Sent qubit 204/768: Bit=1, Basis=X
+[Bob] Measured qubit 204/768: Result=1, Basis=X
+[Bob] Sent ACK_204
+[Alice] Sent qubit 205/768: Bit=0, Basis=X
+[Bob] Measured qubit 205/768: Result=0, Basis=Z
+[Bob] Sent ACK_205
+[Alice] Sent qubit 206/768: Bit=0, Basis=Z
+[Bob] Measured qubit 206/768: Result=0, Basis=Z
+[Bob] Sent ACK_206
+[Alice] Sent qubit 207/768: Bit=0, Basis=Z
+[Bob] Measured qubit 207/768: Result=0, Basis=Z
+[Bob] Sent ACK_207
+[Alice] Sent qubit 208/768: Bit=0, Basis=Z
+[Bob] Measured qubit 208/768: Result=0, Basis=Z
+[Bob] Sent ACK_208
+[Alice] Sent qubit 209/768: Bit=0, Basis=Z
+[Bob] Measured qubit 209/768: Result=0, Basis=X
+[Bob] Sent ACK_209
+[Alice] Sent qubit 210/768: Bit=0, Basis=X
+[Bob] Measured qubit 210/768: Result=0, Basis=X
+[Bob] Sent ACK_210
+[Alice] Sent qubit 211/768: Bit=0, Basis=X
+[Bob] Measured qubit 211/768: Result=0, Basis=X
+[Bob] Sent ACK_211
+[Alice] Sent qubit 212/768: Bit=1, Basis=X
+[Bob] Measured qubit 212/768: Result=0, Basis=Z
+[Bob] Sent ACK_212
+[Alice] Sent qubit 213/768: Bit=0, Basis=Z
+[Bob] Measured qubit 213/768: Result=0, Basis=Z
+[Bob] Sent ACK_213
+[Alice] Sent qubit 214/768: Bit=1, Basis=X
+[Bob] Measured qubit 214/768: Result=1, Basis=X
+[Bob] Sent ACK_214
+[Alice] Sent qubit 215/768: Bit=1, Basis=X
+[Bob] Measured qubit 215/768: Result=1, Basis=Z
+[Bob] Sent ACK_215
+[Alice] Sent qubit 216/768: Bit=1, Basis=Z
+[Bob] Measured qubit 216/768: Result=1, Basis=Z
+[Bob] Sent ACK_216
+[Alice] Sent qubit 217/768: Bit=0, Basis=X
+[Bob] Measured qubit 217/768: Result=0, Basis=X
+[Bob] Sent ACK_217
+[Alice] Sent qubit 218/768: Bit=0, Basis=X
+[Bob] Measured qubit 218/768: Result=0, Basis=X
+[Bob] Sent ACK_218
+[Alice] Sent qubit 219/768: Bit=0, Basis=X
+[Bob] Measured qubit 219/768: Result=0, Basis=X
+[Bob] Sent ACK_219
+[Alice] Sent qubit 220/768: Bit=0, Basis=Z
+[Bob] Measured qubit 220/768: Result=0, Basis=Z
+[Bob] Sent ACK_220
+[Alice] Sent qubit 221/768: Bit=1, Basis=Z
+[Bob] Measured qubit 221/768: Result=1, Basis=X
+[Bob] Sent ACK_221
+[Alice] Sent qubit 222/768: Bit=1, Basis=Z
+[Bob] Measured qubit 222/768: Result=1, Basis=Z
+[Bob] Sent ACK_222
+[Alice] Sent qubit 223/768: Bit=0, Basis=Z
+[Bob] Measured qubit 223/768: Result=0, Basis=X
+[Bob] Sent ACK_223
+[Alice] Sent qubit 224/768: Bit=0, Basis=X
+[Bob] Measured qubit 224/768: Result=1, Basis=Z
+[Bob] Sent ACK_224
+[Alice] Sent qubit 225/768: Bit=0, Basis=Z
+[Bob] Measured qubit 225/768: Result=0, Basis=X
+[Bob] Sent ACK_225
+[Alice] Sent qubit 226/768: Bit=0, Basis=Z
+[Bob] Measured qubit 226/768: Result=1, Basis=X
+[Bob] Sent ACK_226
+[Alice] Sent qubit 227/768: Bit=1, Basis=Z
+[Bob] Measured qubit 227/768: Result=1, Basis=Z
+[Bob] Sent ACK_227
+[Alice] Sent qubit 228/768: Bit=0, Basis=Z
+[Bob] Measured qubit 228/768: Result=0, Basis=Z
+[Bob] Sent ACK_228
+[Alice] Sent qubit 229/768: Bit=1, Basis=Z
+[Bob] Measured qubit 229/768: Result=1, Basis=X
+[Bob] Sent ACK_229
+[Alice] Sent qubit 230/768: Bit=1, Basis=Z
+[Bob] Measured qubit 230/768: Result=0, Basis=X
+[Bob] Sent ACK_230
+[Alice] Sent qubit 231/768: Bit=1, Basis=Z
+[Bob] Measured qubit 231/768: Result=1, Basis=Z
+[Bob] Sent ACK_231
+[Alice] Sent qubit 232/768: Bit=1, Basis=X
+[Bob] Measured qubit 232/768: Result=1, Basis=Z
+[Bob] Sent ACK_232
+[Alice] Sent qubit 233/768: Bit=0, Basis=X
+[Bob] Measured qubit 233/768: Result=0, Basis=X
+[Bob] Sent ACK_233
+[Alice] Sent qubit 234/768: Bit=0, Basis=Z
+[Bob] Measured qubit 234/768: Result=0, Basis=Z
+[Bob] Sent ACK_234
+[Alice] Sent qubit 235/768: Bit=0, Basis=X
+[Bob] Measured qubit 235/768: Result=0, Basis=X
+[Bob] Sent ACK_235
+[Alice] Sent qubit 236/768: Bit=0, Basis=X
+[Bob] Measured qubit 236/768: Result=0, Basis=X
+[Bob] Sent ACK_236
+[Alice] Sent qubit 237/768: Bit=0, Basis=Z
+[Bob] Measured qubit 237/768: Result=0, Basis=Z
+[Bob] Sent ACK_237
+[Alice] Sent qubit 238/768: Bit=1, Basis=X
+[Bob] Measured qubit 238/768: Result=1, Basis=Z
+[Bob] Sent ACK_238
+[Alice] Sent qubit 239/768: Bit=1, Basis=Z
+[Bob] Measured qubit 239/768: Result=1, Basis=X
+[Bob] Sent ACK_239
+[Alice] Sent qubit 240/768: Bit=0, Basis=X
+[Bob] Measured qubit 240/768: Result=1, Basis=Z
+[Bob] Sent ACK_240
+[Alice] Sent qubit 241/768: Bit=1, Basis=Z
+[Bob] Measured qubit 241/768: Result=0, Basis=X
+[Bob] Sent ACK_241
+[Alice] Sent qubit 242/768: Bit=1, Basis=X
+[Bob] Measured qubit 242/768: Result=1, Basis=X
+[Bob] Sent ACK_242
+[Alice] Sent qubit 243/768: Bit=0, Basis=X
+[Bob] Measured qubit 243/768: Result=0, Basis=Z
+[Bob] Sent ACK_243
+[Alice] Sent qubit 244/768: Bit=0, Basis=Z
+[Bob] Measured qubit 244/768: Result=0, Basis=Z
+[Bob] Sent ACK_244
+[Alice] Sent qubit 245/768: Bit=0, Basis=X
+[Bob] Measured qubit 245/768: Result=0, Basis=X
+[Bob] Sent ACK_245
+[Alice] Sent qubit 246/768: Bit=0, Basis=X
+[Bob] Measured qubit 246/768: Result=0, Basis=Z
+[Bob] Sent ACK_246
+[Alice] Sent qubit 247/768: Bit=0, Basis=Z
+[Bob] Measured qubit 247/768: Result=0, Basis=Z
+[Bob] Sent ACK_247
+[Alice] Sent qubit 248/768: Bit=1, Basis=X
+[Bob] Measured qubit 248/768: Result=1, Basis=X
+[Bob] Sent ACK_248
+[Alice] Sent qubit 249/768: Bit=1, Basis=Z
+[Bob] Measured qubit 249/768: Result=1, Basis=Z
+[Bob] Sent ACK_249
+[Alice] Sent qubit 250/768: Bit=0, Basis=Z
+[Bob] Measured qubit 250/768: Result=0, Basis=Z
+[Bob] Sent ACK_250
+[Alice] Sent qubit 251/768: Bit=0, Basis=X
+[Bob] Measured qubit 251/768: Result=1, Basis=Z
+[Bob] Sent ACK_251
+[Alice] Sent qubit 252/768: Bit=0, Basis=X
+[Bob] Measured qubit 252/768: Result=1, Basis=Z
+[Bob] Sent ACK_252
+[Alice] Sent qubit 253/768: Bit=0, Basis=X
+[Bob] Measured qubit 253/768: Result=0, Basis=X
+[Bob] Sent ACK_253
+[Alice] Sent qubit 254/768: Bit=1, Basis=X
+[Bob] Measured qubit 254/768: Result=1, Basis=X
+[Bob] Sent ACK_254
+[Alice] Sent qubit 255/768: Bit=1, Basis=X
+[Bob] Measured qubit 255/768: Result=1, Basis=X
+[Bob] Sent ACK_255
+[Alice] Sent qubit 256/768: Bit=0, Basis=X
+[Bob] Measured qubit 256/768: Result=1, Basis=Z
+[Bob] Sent ACK_256
+[Alice] Sent qubit 257/768: Bit=0, Basis=X
+[Bob] Measured qubit 257/768: Result=1, Basis=Z
+[Bob] Sent ACK_257
+[Alice] Sent qubit 258/768: Bit=1, Basis=Z
+[Bob] Measured qubit 258/768: Result=1, Basis=X
+[Bob] Sent ACK_258
+[Alice] Sent qubit 259/768: Bit=0, Basis=X
+[Bob] Measured qubit 259/768: Result=0, Basis=X
+[Bob] Sent ACK_259
+[Alice] Sent qubit 260/768: Bit=0, Basis=X
+[Bob] Measured qubit 260/768: Result=0, Basis=X
+[Bob] Sent ACK_260
+[Alice] Sent qubit 261/768: Bit=1, Basis=X
+[Bob] Measured qubit 261/768: Result=1, Basis=X
+[Bob] Sent ACK_261
+[Alice] Sent qubit 262/768: Bit=0, Basis=Z
+[Bob] Measured qubit 262/768: Result=0, Basis=Z
+[Bob] Sent ACK_262
+[Alice] Sent qubit 263/768: Bit=0, Basis=X
+[Bob] Measured qubit 263/768: Result=0, Basis=Z
+[Bob] Sent ACK_263
+[Alice] Sent qubit 264/768: Bit=1, Basis=X
+[Bob] Measured qubit 264/768: Result=1, Basis=Z
+[Bob] Sent ACK_264
+[Alice] Sent qubit 265/768: Bit=1, Basis=X
+[Bob] Measured qubit 265/768: Result=0, Basis=Z
+[Bob] Sent ACK_265
+[Alice] Sent qubit 266/768: Bit=0, Basis=X
+[Bob] Measured qubit 266/768: Result=0, Basis=X
+[Bob] Sent ACK_266
+[Alice] Sent qubit 267/768: Bit=0, Basis=Z
+[Bob] Measured qubit 267/768: Result=0, Basis=Z
+[Bob] Sent ACK_267
+[Alice] Sent qubit 268/768: Bit=1, Basis=Z
+[Bob] Measured qubit 268/768: Result=1, Basis=X
+[Bob] Sent ACK_268
+[Alice] Sent qubit 269/768: Bit=0, Basis=Z
+[Bob] Measured qubit 269/768: Result=0, Basis=Z
+[Bob] Sent ACK_269
+[Alice] Sent qubit 270/768: Bit=1, Basis=Z
+[Bob] Measured qubit 270/768: Result=1, Basis=X
+[Bob] Sent ACK_270
+[Alice] Sent qubit 271/768: Bit=0, Basis=X
+[Bob] Measured qubit 271/768: Result=0, Basis=Z
+[Bob] Sent ACK_271
+[Alice] Sent qubit 272/768: Bit=1, Basis=Z
+[Bob] Measured qubit 272/768: Result=1, Basis=X
+[Bob] Sent ACK_272
+[Alice] Sent qubit 273/768: Bit=0, Basis=Z
+[Bob] Measured qubit 273/768: Result=0, Basis=X
+[Bob] Sent ACK_273
+[Alice] Sent qubit 274/768: Bit=0, Basis=Z
+[Bob] Measured qubit 274/768: Result=0, Basis=Z
+[Bob] Sent ACK_274
+[Alice] Sent qubit 275/768: Bit=0, Basis=X
+[Bob] Measured qubit 275/768: Result=0, Basis=Z
+[Bob] Sent ACK_275
+[Alice] Sent qubit 276/768: Bit=0, Basis=Z
+[Bob] Measured qubit 276/768: Result=0, Basis=Z
+[Bob] Sent ACK_276
+[Alice] Sent qubit 277/768: Bit=1, Basis=X
+[Bob] Measured qubit 277/768: Result=1, Basis=X
+[Bob] Sent ACK_277
+[Alice] Sent qubit 278/768: Bit=1, Basis=Z
+[Bob] Measured qubit 278/768: Result=1, Basis=Z
+[Bob] Sent ACK_278
+[Alice] Sent qubit 279/768: Bit=0, Basis=Z
+[Bob] Measured qubit 279/768: Result=0, Basis=X
+[Bob] Sent ACK_279
+[Alice] Sent qubit 280/768: Bit=1, Basis=X
+[Bob] Measured qubit 280/768: Result=0, Basis=Z
+[Bob] Sent ACK_280
+[Alice] Sent qubit 281/768: Bit=0, Basis=Z
+[Bob] Measured qubit 281/768: Result=0, Basis=X
+[Bob] Sent ACK_281
+[Alice] Sent qubit 282/768: Bit=0, Basis=X
+[Bob] Measured qubit 282/768: Result=0, Basis=Z
+[Bob] Sent ACK_282
+[Alice] Sent qubit 283/768: Bit=1, Basis=X
+[Bob] Measured qubit 283/768: Result=0, Basis=Z
+[Bob] Sent ACK_283
+[Alice] Sent qubit 284/768: Bit=0, Basis=Z
+[Bob] Measured qubit 284/768: Result=1, Basis=X
+[Bob] Sent ACK_284
+[Alice] Sent qubit 285/768: Bit=1, Basis=X
+[Bob] Measured qubit 285/768: Result=1, Basis=X
+[Bob] Sent ACK_285
+[Alice] Sent qubit 286/768: Bit=0, Basis=X
+[Bob] Measured qubit 286/768: Result=1, Basis=Z
+[Bob] Sent ACK_286
+[Alice] Sent qubit 287/768: Bit=1, Basis=Z
+[Bob] Measured qubit 287/768: Result=0, Basis=X
+[Bob] Sent ACK_287
+[Alice] Sent qubit 288/768: Bit=1, Basis=Z
+[Bob] Measured qubit 288/768: Result=1, Basis=X
+[Bob] Sent ACK_288
+[Alice] Sent qubit 289/768: Bit=1, Basis=X
+[Bob] Measured qubit 289/768: Result=1, Basis=X
+[Bob] Sent ACK_289
+[Alice] Sent qubit 290/768: Bit=1, Basis=Z
+[Bob] Measured qubit 290/768: Result=1, Basis=X
+[Bob] Sent ACK_290
+[Alice] Sent qubit 291/768: Bit=1, Basis=X
+[Bob] Measured qubit 291/768: Result=1, Basis=X
+[Bob] Sent ACK_291
+[Alice] Sent qubit 292/768: Bit=0, Basis=X
+[Bob] Measured qubit 292/768: Result=0, Basis=X
+[Bob] Sent ACK_292
+[Alice] Sent qubit 293/768: Bit=1, Basis=X
+[Bob] Measured qubit 293/768: Result=1, Basis=X
+[Bob] Sent ACK_293
+[Alice] Sent qubit 294/768: Bit=0, Basis=X
+[Bob] Measured qubit 294/768: Result=0, Basis=Z
+[Bob] Sent ACK_294
+[Alice] Sent qubit 295/768: Bit=0, Basis=X
+[Bob] Measured qubit 295/768: Result=0, Basis=X
+[Bob] Sent ACK_295
+[Alice] Sent qubit 296/768: Bit=1, Basis=Z
+[Bob] Measured qubit 296/768: Result=1, Basis=X
+[Bob] Sent ACK_296
+[Alice] Sent qubit 297/768: Bit=0, Basis=Z
+[Bob] Measured qubit 297/768: Result=0, Basis=X
+[Bob] Sent ACK_297
+[Alice] Sent qubit 298/768: Bit=0, Basis=X
+[Bob] Measured qubit 298/768: Result=0, Basis=X
+[Bob] Sent ACK_298
+[Alice] Sent qubit 299/768: Bit=1, Basis=Z
+[Bob] Measured qubit 299/768: Result=1, Basis=Z
+[Bob] Sent ACK_299
+[Alice] Sent qubit 300/768: Bit=0, Basis=Z
+[Bob] Measured qubit 300/768: Result=0, Basis=Z
+[Bob] Sent ACK_300
+[Alice] Sent qubit 301/768: Bit=0, Basis=Z
+[Bob] Measured qubit 301/768: Result=0, Basis=X
+[Bob] Sent ACK_301
+[Alice] Sent qubit 302/768: Bit=0, Basis=Z
+[Bob] Measured qubit 302/768: Result=1, Basis=X
+[Bob] Sent ACK_302
+[Alice] Sent qubit 303/768: Bit=1, Basis=Z
+[Bob] Measured qubit 303/768: Result=1, Basis=Z
+[Bob] Sent ACK_303
+[Alice] Sent qubit 304/768: Bit=0, Basis=X
+[Bob] Measured qubit 304/768: Result=0, Basis=Z
+[Bob] Sent ACK_304
+[Alice] Sent qubit 305/768: Bit=1, Basis=X
+[Bob] Measured qubit 305/768: Result=1, Basis=X
+[Bob] Sent ACK_305
+[Alice] Sent qubit 306/768: Bit=1, Basis=Z
+[Bob] Measured qubit 306/768: Result=1, Basis=Z
+[Bob] Sent ACK_306
+[Alice] Sent qubit 307/768: Bit=0, Basis=X
+[Bob] Measured qubit 307/768: Result=0, Basis=Z
+[Bob] Sent ACK_307
+[Alice] Sent qubit 308/768: Bit=0, Basis=Z
+[Bob] Measured qubit 308/768: Result=0, Basis=Z
+[Bob] Sent ACK_308
+[Alice] Sent qubit 309/768: Bit=0, Basis=X
+[Bob] Measured qubit 309/768: Result=0, Basis=Z
+[Bob] Sent ACK_309
+[Alice] Sent qubit 310/768: Bit=1, Basis=Z
+[Bob] Measured qubit 310/768: Result=1, Basis=Z
+[Bob] Sent ACK_310
+[Alice] Sent qubit 311/768: Bit=1, Basis=Z
+[Bob] Measured qubit 311/768: Result=1, Basis=Z
+[Bob] Sent ACK_311
+[Alice] Sent qubit 312/768: Bit=1, Basis=Z
+[Bob] Measured qubit 312/768: Result=0, Basis=X
+[Bob] Sent ACK_312
+[Alice] Sent qubit 313/768: Bit=1, Basis=Z
+[Bob] Measured qubit 313/768: Result=0, Basis=X
+[Bob] Sent ACK_313
+[Alice] Sent qubit 314/768: Bit=1, Basis=X
+[Bob] Measured qubit 314/768: Result=1, Basis=Z
+[Bob] Sent ACK_314
+[Alice] Sent qubit 315/768: Bit=1, Basis=Z
+[Bob] Measured qubit 315/768: Result=1, Basis=Z
+[Bob] Sent ACK_315
+[Alice] Sent qubit 316/768: Bit=1, Basis=Z
+[Bob] Measured qubit 316/768: Result=1, Basis=Z
+[Bob] Sent ACK_316
+[Alice] Sent qubit 317/768: Bit=1, Basis=X
+[Bob] Measured qubit 317/768: Result=1, Basis=X
+[Bob] Sent ACK_317
+[Alice] Sent qubit 318/768: Bit=1, Basis=X
+[Bob] Measured qubit 318/768: Result=1, Basis=X
+[Bob] Sent ACK_318
+[Alice] Sent qubit 319/768: Bit=1, Basis=Z
+[Bob] Measured qubit 319/768: Result=0, Basis=X
+[Bob] Sent ACK_319
+[Alice] Sent qubit 320/768: Bit=1, Basis=Z
+[Bob] Measured qubit 320/768: Result=1, Basis=X
+[Bob] Sent ACK_320
+[Alice] Sent qubit 321/768: Bit=1, Basis=Z
+[Bob] Measured qubit 321/768: Result=1, Basis=Z
+[Bob] Sent ACK_321
+[Alice] Sent qubit 322/768: Bit=0, Basis=X
+[Bob] Measured qubit 322/768: Result=1, Basis=Z
+[Bob] Sent ACK_322
+[Alice] Sent qubit 323/768: Bit=0, Basis=X
+[Bob] Measured qubit 323/768: Result=0, Basis=X
+[Bob] Sent ACK_323
+[Alice] Sent qubit 324/768: Bit=1, Basis=X
+[Bob] Measured qubit 324/768: Result=1, Basis=X
+[Bob] Sent ACK_324
+[Alice] Sent qubit 325/768: Bit=0, Basis=X
+[Bob] Measured qubit 325/768: Result=0, Basis=X
+[Bob] Sent ACK_325
+[Alice] Sent qubit 326/768: Bit=1, Basis=Z
+[Bob] Measured qubit 326/768: Result=0, Basis=X
+[Bob] Sent ACK_326
+[Alice] Sent qubit 327/768: Bit=0, Basis=X
+[Bob] Measured qubit 327/768: Result=1, Basis=Z
+[Bob] Sent ACK_327
+[Alice] Sent qubit 328/768: Bit=0, Basis=Z
+[Bob] Measured qubit 328/768: Result=0, Basis=X
+[Bob] Sent ACK_328
+[Alice] Sent qubit 329/768: Bit=0, Basis=X
+[Bob] Measured qubit 329/768: Result=0, Basis=Z
+[Bob] Sent ACK_329
+[Alice] Sent qubit 330/768: Bit=1, Basis=Z
+[Bob] Measured qubit 330/768: Result=1, Basis=Z
+[Bob] Sent ACK_330
+[Alice] Sent qubit 331/768: Bit=0, Basis=X
+[Bob] Measured qubit 331/768: Result=0, Basis=X
+[Bob] Sent ACK_331
+[Alice] Sent qubit 332/768: Bit=0, Basis=Z
+[Bob] Measured qubit 332/768: Result=1, Basis=X
+[Bob] Sent ACK_332
+[Alice] Sent qubit 333/768: Bit=1, Basis=Z
+[Bob] Measured qubit 333/768: Result=0, Basis=X
+[Bob] Sent ACK_333
+[Alice] Sent qubit 334/768: Bit=1, Basis=X
+[Bob] Measured qubit 334/768: Result=1, Basis=Z
+[Bob] Sent ACK_334
+[Alice] Sent qubit 335/768: Bit=0, Basis=X
+[Bob] Measured qubit 335/768: Result=1, Basis=Z
+[Bob] Sent ACK_335
+[Alice] Sent qubit 336/768: Bit=1, Basis=Z
+[Bob] Measured qubit 336/768: Result=0, Basis=X
+[Bob] Sent ACK_336
+[Alice] Sent qubit 337/768: Bit=1, Basis=Z
+[Bob] Measured qubit 337/768: Result=1, Basis=Z
+[Bob] Sent ACK_337
+[Alice] Sent qubit 338/768: Bit=0, Basis=Z
+[Bob] Measured qubit 338/768: Result=0, Basis=Z
+[Bob] Sent ACK_338
+[Alice] Sent qubit 339/768: Bit=0, Basis=X
+[Bob] Measured qubit 339/768: Result=1, Basis=Z
+[Bob] Sent ACK_339
+[Alice] Sent qubit 340/768: Bit=0, Basis=X
+[Bob] Measured qubit 340/768: Result=0, Basis=Z
+[Bob] Sent ACK_340
+[Alice] Sent qubit 341/768: Bit=0, Basis=X
+[Bob] Measured qubit 341/768: Result=0, Basis=X
+[Bob] Sent ACK_341
+[Alice] Sent qubit 342/768: Bit=0, Basis=X
+[Bob] Measured qubit 342/768: Result=0, Basis=Z
+[Bob] Sent ACK_342
+[Alice] Sent qubit 343/768: Bit=1, Basis=Z
+[Bob] Measured qubit 343/768: Result=1, Basis=X
+[Bob] Sent ACK_343
+[Alice] Sent qubit 344/768: Bit=1, Basis=X
+[Bob] Measured qubit 344/768: Result=0, Basis=Z
+[Bob] Sent ACK_344
+[Alice] Sent qubit 345/768: Bit=0, Basis=X
+[Bob] Measured qubit 345/768: Result=0, Basis=Z
+[Bob] Sent ACK_345
+[Alice] Sent qubit 346/768: Bit=1, Basis=X
+[Bob] Measured qubit 346/768: Result=1, Basis=X
+[Bob] Sent ACK_346
+[Alice] Sent qubit 347/768: Bit=1, Basis=Z
+[Bob] Measured qubit 347/768: Result=1, Basis=X
+[Bob] Sent ACK_347
+[Alice] Sent qubit 348/768: Bit=0, Basis=X
+[Bob] Measured qubit 348/768: Result=1, Basis=Z
+[Bob] Sent ACK_348
+[Alice] Sent qubit 349/768: Bit=0, Basis=Z
+[Bob] Measured qubit 349/768: Result=1, Basis=X
+[Bob] Sent ACK_349
+[Alice] Sent qubit 350/768: Bit=0, Basis=X
+[Bob] Measured qubit 350/768: Result=0, Basis=Z
+[Bob] Sent ACK_350
+[Alice] Sent qubit 351/768: Bit=1, Basis=X
+[Bob] Measured qubit 351/768: Result=1, Basis=X
+[Bob] Sent ACK_351
+[Alice] Sent qubit 352/768: Bit=1, Basis=Z
+[Bob] Measured qubit 352/768: Result=0, Basis=X
+[Bob] Sent ACK_352
+[Alice] Sent qubit 353/768: Bit=0, Basis=X
+[Bob] Measured qubit 353/768: Result=0, Basis=X
+[Bob] Sent ACK_353
+[Alice] Sent qubit 354/768: Bit=0, Basis=X
+[Bob] Measured qubit 354/768: Result=1, Basis=Z
+[Bob] Sent ACK_354
+[Alice] Sent qubit 355/768: Bit=1, Basis=Z
+[Bob] Measured qubit 355/768: Result=1, Basis=Z
+[Bob] Sent ACK_355
+[Alice] Sent qubit 356/768: Bit=1, Basis=Z
+[Bob] Measured qubit 356/768: Result=1, Basis=Z
+[Bob] Sent ACK_356
+[Alice] Sent qubit 357/768: Bit=0, Basis=X
+[Bob] Measured qubit 357/768: Result=0, Basis=X
+[Bob] Sent ACK_357
+[Alice] Sent qubit 358/768: Bit=1, Basis=X
+[Bob] Measured qubit 358/768: Result=1, Basis=Z
+[Bob] Sent ACK_358
+[Alice] Sent qubit 359/768: Bit=0, Basis=Z
+[Bob] Measured qubit 359/768: Result=1, Basis=X
+[Bob] Sent ACK_359
+[Alice] Sent qubit 360/768: Bit=0, Basis=X
+[Bob] Measured qubit 360/768: Result=0, Basis=X
+[Bob] Sent ACK_360
+[Alice] Sent qubit 361/768: Bit=0, Basis=X
+[Bob] Measured qubit 361/768: Result=0, Basis=X
+[Bob] Sent ACK_361
+[Alice] Sent qubit 362/768: Bit=0, Basis=Z
+[Bob] Measured qubit 362/768: Result=1, Basis=X
+[Bob] Sent ACK_362
+[Alice] Sent qubit 363/768: Bit=0, Basis=Z
+[Bob] Measured qubit 363/768: Result=0, Basis=Z
+[Bob] Sent ACK_363
+[Alice] Sent qubit 364/768: Bit=0, Basis=X
+[Bob] Measured qubit 364/768: Result=0, Basis=X
+[Bob] Sent ACK_364
+[Alice] Sent qubit 365/768: Bit=1, Basis=X
+[Bob] Measured qubit 365/768: Result=1, Basis=Z
+[Bob] Sent ACK_365
+[Alice] Sent qubit 366/768: Bit=1, Basis=X
+[Bob] Measured qubit 366/768: Result=0, Basis=Z
+[Bob] Sent ACK_366
+[Alice] Sent qubit 367/768: Bit=1, Basis=Z
+[Bob] Measured qubit 367/768: Result=0, Basis=X
+[Bob] Sent ACK_367
+[Alice] Sent qubit 368/768: Bit=0, Basis=X
+[Bob] Measured qubit 368/768: Result=0, Basis=Z
+[Bob] Sent ACK_368
+[Alice] Sent qubit 369/768: Bit=0, Basis=Z
+[Bob] Measured qubit 369/768: Result=0, Basis=Z
+[Bob] Sent ACK_369
+[Alice] Sent qubit 370/768: Bit=0, Basis=X
+[Bob] Measured qubit 370/768: Result=0, Basis=Z
+[Bob] Sent ACK_370
+[Alice] Sent qubit 371/768: Bit=0, Basis=Z
+[Bob] Measured qubit 371/768: Result=1, Basis=X
+[Bob] Sent ACK_371
+[Alice] Sent qubit 372/768: Bit=1, Basis=Z
+[Bob] Measured qubit 372/768: Result=1, Basis=X
+[Bob] Sent ACK_372
+[Alice] Sent qubit 373/768: Bit=0, Basis=X
+[Bob] Measured qubit 373/768: Result=0, Basis=Z
+[Bob] Sent ACK_373
+[Alice] Sent qubit 374/768: Bit=0, Basis=Z
+[Bob] Measured qubit 374/768: Result=1, Basis=X
+[Bob] Sent ACK_374
+[Alice] Sent qubit 375/768: Bit=1, Basis=Z
+[Bob] Measured qubit 375/768: Result=1, Basis=Z
+[Bob] Sent ACK_375
+[Alice] Sent qubit 376/768: Bit=1, Basis=X
+[Bob] Measured qubit 376/768: Result=1, Basis=X
+[Bob] Sent ACK_376
+[Alice] Sent qubit 377/768: Bit=1, Basis=Z
+[Bob] Measured qubit 377/768: Result=0, Basis=X
+[Bob] Sent ACK_377
+[Alice] Sent qubit 378/768: Bit=1, Basis=Z
+[Bob] Measured qubit 378/768: Result=1, Basis=Z
+[Bob] Sent ACK_378
+[Alice] Sent qubit 379/768: Bit=0, Basis=X
+[Bob] Measured qubit 379/768: Result=0, Basis=X
+[Bob] Sent ACK_379
+[Alice] Sent qubit 380/768: Bit=1, Basis=X
+[Bob] Measured qubit 380/768: Result=1, Basis=X
+[Bob] Sent ACK_380
+[Alice] Sent qubit 381/768: Bit=0, Basis=X
+[Bob] Measured qubit 381/768: Result=0, Basis=X
+[Bob] Sent ACK_381
+[Alice] Sent qubit 382/768: Bit=0, Basis=Z
+[Bob] Measured qubit 382/768: Result=0, Basis=X
+[Bob] Sent ACK_382
+[Alice] Sent qubit 383/768: Bit=0, Basis=X
+[Bob] Measured qubit 383/768: Result=0, Basis=X
+[Bob] Sent ACK_383
+[Alice] Sent qubit 384/768: Bit=1, Basis=X
+[Bob] Measured qubit 384/768: Result=1, Basis=X
+[Bob] Sent ACK_384
+[Alice] Sent qubit 385/768: Bit=1, Basis=X
+[Bob] Measured qubit 385/768: Result=1, Basis=Z
+[Bob] Sent ACK_385
+[Alice] Sent qubit 386/768: Bit=1, Basis=Z
+[Bob] Measured qubit 386/768: Result=1, Basis=X
+[Bob] Sent ACK_386
+[Alice] Sent qubit 387/768: Bit=1, Basis=Z
+[Bob] Measured qubit 387/768: Result=1, Basis=X
+[Bob] Sent ACK_387
+[Alice] Sent qubit 388/768: Bit=0, Basis=X
+[Bob] Measured qubit 388/768: Result=0, Basis=X
+[Bob] Sent ACK_388
+[Alice] Sent qubit 389/768: Bit=0, Basis=Z
+[Bob] Measured qubit 389/768: Result=0, Basis=Z
+[Bob] Sent ACK_389
+[Alice] Sent qubit 390/768: Bit=1, Basis=X
+[Bob] Measured qubit 390/768: Result=1, Basis=X
+[Bob] Sent ACK_390
+[Alice] Sent qubit 391/768: Bit=1, Basis=Z
+[Bob] Measured qubit 391/768: Result=1, Basis=X
+[Bob] Sent ACK_391
+[Alice] Sent qubit 392/768: Bit=0, Basis=Z
+[Bob] Measured qubit 392/768: Result=1, Basis=X
+[Bob] Sent ACK_392
+[Alice] Sent qubit 393/768: Bit=0, Basis=Z
+[Bob] Measured qubit 393/768: Result=0, Basis=X
+[Bob] Sent ACK_393
+[Alice] Sent qubit 394/768: Bit=1, Basis=Z
+[Bob] Measured qubit 394/768: Result=1, Basis=X
+[Bob] Sent ACK_394
+[Alice] Sent qubit 395/768: Bit=0, Basis=Z
+[Bob] Measured qubit 395/768: Result=0, Basis=X
+[Bob] Sent ACK_395
+[Alice] Sent qubit 396/768: Bit=1, Basis=Z
+[Bob] Measured qubit 396/768: Result=1, Basis=X
+[Bob] Sent ACK_396
+[Alice] Sent qubit 397/768: Bit=1, Basis=X
+[Bob] Measured qubit 397/768: Result=1, Basis=Z
+[Bob] Sent ACK_397
+[Alice] Sent qubit 398/768: Bit=0, Basis=X
+[Bob] Measured qubit 398/768: Result=0, Basis=Z
+[Bob] Sent ACK_398
+[Alice] Sent qubit 399/768: Bit=1, Basis=X
+[Bob] Measured qubit 399/768: Result=1, Basis=Z
+[Bob] Sent ACK_399
+[Alice] Sent qubit 400/768: Bit=1, Basis=X
+[Bob] Measured qubit 400/768: Result=1, Basis=X
+[Bob] Sent ACK_400
+[Alice] Sent qubit 401/768: Bit=1, Basis=X
+[Bob] Measured qubit 401/768: Result=1, Basis=X
+[Bob] Sent ACK_401
+[Alice] Sent qubit 402/768: Bit=1, Basis=X
+[Bob] Measured qubit 402/768: Result=0, Basis=Z
+[Bob] Sent ACK_402
+[Alice] Sent qubit 403/768: Bit=0, Basis=X
+[Bob] Measured qubit 403/768: Result=0, Basis=Z
+[Bob] Sent ACK_403
+[Alice] Sent qubit 404/768: Bit=0, Basis=Z
+[Bob] Measured qubit 404/768: Result=1, Basis=X
+[Bob] Sent ACK_404
+[Alice] Sent qubit 405/768: Bit=0, Basis=X
+[Bob] Measured qubit 405/768: Result=0, Basis=Z
+[Bob] Sent ACK_405
+[Alice] Sent qubit 406/768: Bit=1, Basis=X
+[Bob] Measured qubit 406/768: Result=0, Basis=Z
+[Bob] Sent ACK_406
+[Alice] Sent qubit 407/768: Bit=0, Basis=Z
+[Bob] Measured qubit 407/768: Result=0, Basis=Z
+[Bob] Sent ACK_407
+[Alice] Sent qubit 408/768: Bit=0, Basis=Z
+[Bob] Measured qubit 408/768: Result=0, Basis=Z
+[Bob] Sent ACK_408
+[Alice] Sent qubit 409/768: Bit=1, Basis=Z
+[Bob] Measured qubit 409/768: Result=0, Basis=X
+[Bob] Sent ACK_409
+[Alice] Sent qubit 410/768: Bit=1, Basis=X
+[Bob] Measured qubit 410/768: Result=1, Basis=Z
+[Bob] Sent ACK_410
+[Alice] Sent qubit 411/768: Bit=0, Basis=Z
+[Bob] Measured qubit 411/768: Result=0, Basis=Z
+[Bob] Sent ACK_411
+[Alice] Sent qubit 412/768: Bit=1, Basis=X
+[Bob] Measured qubit 412/768: Result=1, Basis=Z
+[Bob] Sent ACK_412
+[Alice] Sent qubit 413/768: Bit=1, Basis=X
+[Bob] Measured qubit 413/768: Result=1, Basis=X
+[Bob] Sent ACK_413
+[Alice] Sent qubit 414/768: Bit=1, Basis=X
+[Bob] Measured qubit 414/768: Result=0, Basis=Z
+[Bob] Sent ACK_414
+[Alice] Sent qubit 415/768: Bit=1, Basis=Z
+[Bob] Measured qubit 415/768: Result=0, Basis=X
+[Bob] Sent ACK_415
+[Alice] Sent qubit 416/768: Bit=1, Basis=X
+[Bob] Measured qubit 416/768: Result=1, Basis=X
+[Bob] Sent ACK_416
+[Alice] Sent qubit 417/768: Bit=1, Basis=X
+[Bob] Measured qubit 417/768: Result=0, Basis=Z
+[Bob] Sent ACK_417
+[Alice] Sent qubit 418/768: Bit=0, Basis=X
+[Bob] Measured qubit 418/768: Result=0, Basis=X
+[Bob] Sent ACK_418
+[Alice] Sent qubit 419/768: Bit=0, Basis=Z
+[Bob] Measured qubit 419/768: Result=0, Basis=Z
+[Bob] Sent ACK_419
+[Alice] Sent qubit 420/768: Bit=1, Basis=X
+[Bob] Measured qubit 420/768: Result=1, Basis=X
+[Bob] Sent ACK_420
+[Alice] Sent qubit 421/768: Bit=0, Basis=X
+[Bob] Measured qubit 421/768: Result=1, Basis=Z
+[Bob] Sent ACK_421
+[Alice] Sent qubit 422/768: Bit=0, Basis=X
+[Bob] Measured qubit 422/768: Result=1, Basis=Z
+[Bob] Sent ACK_422
+[Alice] Sent qubit 423/768: Bit=0, Basis=Z
+[Bob] Measured qubit 423/768: Result=0, Basis=X
+[Bob] Sent ACK_423
+[Alice] Sent qubit 424/768: Bit=1, Basis=Z
+[Bob] Measured qubit 424/768: Result=1, Basis=Z
+[Bob] Sent ACK_424
+[Alice] Sent qubit 425/768: Bit=1, Basis=Z
+[Bob] Measured qubit 425/768: Result=0, Basis=X
+[Bob] Sent ACK_425
+[Alice] Sent qubit 426/768: Bit=0, Basis=Z
+[Bob] Measured qubit 426/768: Result=0, Basis=X
+[Bob] Sent ACK_426
+[Alice] Sent qubit 427/768: Bit=1, Basis=X
+[Bob] Measured qubit 427/768: Result=1, Basis=X
+[Bob] Sent ACK_427
+[Alice] Sent qubit 428/768: Bit=0, Basis=Z
+[Bob] Measured qubit 428/768: Result=1, Basis=X
+[Bob] Sent ACK_428
+[Alice] Sent qubit 429/768: Bit=0, Basis=Z
+[Bob] Measured qubit 429/768: Result=0, Basis=Z
+[Bob] Sent ACK_429
+[Alice] Sent qubit 430/768: Bit=0, Basis=X
+[Bob] Measured qubit 430/768: Result=0, Basis=X
+[Bob] Sent ACK_430
+[Alice] Sent qubit 431/768: Bit=1, Basis=Z
+[Bob] Measured qubit 431/768: Result=1, Basis=Z
+[Bob] Sent ACK_431
+[Alice] Sent qubit 432/768: Bit=0, Basis=Z
+[Bob] Measured qubit 432/768: Result=1, Basis=X
+[Bob] Sent ACK_432
+[Alice] Sent qubit 433/768: Bit=1, Basis=X
+[Bob] Measured qubit 433/768: Result=1, Basis=X
+[Bob] Sent ACK_433
+[Alice] Sent qubit 434/768: Bit=0, Basis=Z
+[Bob] Measured qubit 434/768: Result=0, Basis=Z
+[Bob] Sent ACK_434
+[Alice] Sent qubit 435/768: Bit=1, Basis=X
+[Bob] Measured qubit 435/768: Result=1, Basis=X
+[Bob] Sent ACK_435
+[Alice] Sent qubit 436/768: Bit=0, Basis=Z
+[Bob] Measured qubit 436/768: Result=0, Basis=Z
+[Bob] Sent ACK_436
+[Alice] Sent qubit 437/768: Bit=1, Basis=Z
+[Bob] Measured qubit 437/768: Result=0, Basis=X
+[Bob] Sent ACK_437
+[Alice] Sent qubit 438/768: Bit=1, Basis=X
+[Bob] Measured qubit 438/768: Result=1, Basis=Z
+[Bob] Sent ACK_438
+[Alice] Sent qubit 439/768: Bit=1, Basis=X
+[Bob] Measured qubit 439/768: Result=1, Basis=Z
+[Bob] Sent ACK_439
+[Alice] Sent qubit 440/768: Bit=0, Basis=Z
+[Bob] Measured qubit 440/768: Result=1, Basis=X
+[Bob] Sent ACK_440
+[Alice] Sent qubit 441/768: Bit=1, Basis=Z
+[Bob] Measured qubit 441/768: Result=1, Basis=Z
+[Bob] Sent ACK_441
+[Alice] Sent qubit 442/768: Bit=1, Basis=Z
+[Bob] Measured qubit 442/768: Result=1, Basis=Z
+[Bob] Sent ACK_442
+[Alice] Sent qubit 443/768: Bit=1, Basis=Z
+[Bob] Measured qubit 443/768: Result=1, Basis=Z
+[Bob] Sent ACK_443
+[Alice] Sent qubit 444/768: Bit=0, Basis=Z
+[Bob] Measured qubit 444/768: Result=0, Basis=Z
+[Bob] Sent ACK_444
+[Alice] Sent qubit 445/768: Bit=0, Basis=Z
+[Bob] Measured qubit 445/768: Result=0, Basis=Z
+[Bob] Sent ACK_445
+[Alice] Sent qubit 446/768: Bit=1, Basis=X
+[Bob] Measured qubit 446/768: Result=1, Basis=Z
+[Bob] Sent ACK_446
+[Alice] Sent qubit 447/768: Bit=0, Basis=X
+[Bob] Measured qubit 447/768: Result=1, Basis=Z
+[Bob] Sent ACK_447
+[Alice] Sent qubit 448/768: Bit=0, Basis=Z
+[Bob] Measured qubit 448/768: Result=0, Basis=Z
+[Bob] Sent ACK_448
+[Alice] Sent qubit 449/768: Bit=1, Basis=Z
+[Bob] Measured qubit 449/768: Result=0, Basis=X
+[Bob] Sent ACK_449
+[Alice] Sent qubit 450/768: Bit=1, Basis=Z
+[Bob] Measured qubit 450/768: Result=1, Basis=X
+[Bob] Sent ACK_450
+[Alice] Sent qubit 451/768: Bit=0, Basis=Z
+[Bob] Measured qubit 451/768: Result=1, Basis=X
+[Bob] Sent ACK_451
+[Alice] Sent qubit 452/768: Bit=0, Basis=X
+[Bob] Measured qubit 452/768: Result=0, Basis=X
+[Bob] Sent ACK_452
+[Alice] Sent qubit 453/768: Bit=1, Basis=Z
+[Bob] Measured qubit 453/768: Result=0, Basis=X
+[Bob] Sent ACK_453
+[Alice] Sent qubit 454/768: Bit=1, Basis=Z
+[Bob] Measured qubit 454/768: Result=1, Basis=Z
+[Bob] Sent ACK_454
+[Alice] Sent qubit 455/768: Bit=1, Basis=X
+[Bob] Measured qubit 455/768: Result=1, Basis=X
+[Bob] Sent ACK_455
+[Alice] Sent qubit 456/768: Bit=0, Basis=Z
+[Bob] Measured qubit 456/768: Result=0, Basis=Z
+[Bob] Sent ACK_456
+[Alice] Sent qubit 457/768: Bit=1, Basis=Z
+[Bob] Measured qubit 457/768: Result=0, Basis=X
+[Bob] Sent ACK_457
+[Alice] Sent qubit 458/768: Bit=0, Basis=X
+[Bob] Measured qubit 458/768: Result=0, Basis=Z
+[Bob] Sent ACK_458
+[Alice] Sent qubit 459/768: Bit=0, Basis=Z
+[Bob] Measured qubit 459/768: Result=1, Basis=X
+[Bob] Sent ACK_459
+[Alice] Sent qubit 460/768: Bit=1, Basis=Z
+[Bob] Measured qubit 460/768: Result=1, Basis=Z
+[Bob] Sent ACK_460
+[Alice] Sent qubit 461/768: Bit=0, Basis=Z
+[Bob] Measured qubit 461/768: Result=1, Basis=X
+[Bob] Sent ACK_461
+[Alice] Sent qubit 462/768: Bit=1, Basis=Z
+[Bob] Measured qubit 462/768: Result=1, Basis=Z
+[Bob] Sent ACK_462
+[Alice] Sent qubit 463/768: Bit=1, Basis=Z
+[Bob] Measured qubit 463/768: Result=1, Basis=Z
+[Bob] Sent ACK_463
+[Alice] Sent qubit 464/768: Bit=0, Basis=Z
+[Bob] Measured qubit 464/768: Result=0, Basis=Z
+[Bob] Sent ACK_464
+[Alice] Sent qubit 465/768: Bit=0, Basis=Z
+[Bob] Measured qubit 465/768: Result=1, Basis=X
+[Bob] Sent ACK_465
+[Alice] Sent qubit 466/768: Bit=1, Basis=Z
+[Bob] Measured qubit 466/768: Result=1, Basis=X
+[Bob] Sent ACK_466
+[Alice] Sent qubit 467/768: Bit=0, Basis=Z
+[Bob] Measured qubit 467/768: Result=0, Basis=Z
+[Bob] Sent ACK_467
+[Alice] Sent qubit 468/768: Bit=0, Basis=X
+[Bob] Measured qubit 468/768: Result=0, Basis=X
+[Bob] Sent ACK_468
+[Alice] Sent qubit 469/768: Bit=1, Basis=X
+[Bob] Measured qubit 469/768: Result=1, Basis=X
+[Bob] Sent ACK_469
+[Alice] Sent qubit 470/768: Bit=1, Basis=X
+[Bob] Measured qubit 470/768: Result=1, Basis=X
+[Bob] Sent ACK_470
+[Alice] Sent qubit 471/768: Bit=1, Basis=X
+[Bob] Measured qubit 471/768: Result=0, Basis=Z
+[Bob] Sent ACK_471
+[Alice] Sent qubit 472/768: Bit=1, Basis=Z
+[Bob] Measured qubit 472/768: Result=1, Basis=Z
+[Bob] Sent ACK_472
+[Alice] Sent qubit 473/768: Bit=1, Basis=X
+[Bob] Measured qubit 473/768: Result=1, Basis=X
+[Bob] Sent ACK_473
+[Alice] Sent qubit 474/768: Bit=0, Basis=Z
+[Bob] Measured qubit 474/768: Result=0, Basis=Z
+[Bob] Sent ACK_474
+[Alice] Sent qubit 475/768: Bit=1, Basis=X
+[Bob] Measured qubit 475/768: Result=1, Basis=X
+[Bob] Sent ACK_475
+[Alice] Sent qubit 476/768: Bit=0, Basis=Z
+[Bob] Measured qubit 476/768: Result=0, Basis=Z
+[Bob] Sent ACK_476
+[Alice] Sent qubit 477/768: Bit=1, Basis=Z
+[Bob] Measured qubit 477/768: Result=0, Basis=X
+[Bob] Sent ACK_477
+[Alice] Sent qubit 478/768: Bit=1, Basis=Z
+[Bob] Measured qubit 478/768: Result=0, Basis=X
+[Bob] Sent ACK_478
+[Alice] Sent qubit 479/768: Bit=1, Basis=Z
+[Bob] Measured qubit 479/768: Result=1, Basis=Z
+[Bob] Sent ACK_479
+[Alice] Sent qubit 480/768: Bit=0, Basis=Z
+[Bob] Measured qubit 480/768: Result=0, Basis=X
+[Bob] Sent ACK_480
+[Alice] Sent qubit 481/768: Bit=0, Basis=Z
+[Bob] Measured qubit 481/768: Result=0, Basis=Z
+[Bob] Sent ACK_481
+[Alice] Sent qubit 482/768: Bit=0, Basis=Z
+[Bob] Measured qubit 482/768: Result=0, Basis=Z
+[Bob] Sent ACK_482
+[Alice] Sent qubit 483/768: Bit=0, Basis=Z
+[Bob] Measured qubit 483/768: Result=1, Basis=X
+[Bob] Sent ACK_483
+[Alice] Sent qubit 484/768: Bit=1, Basis=Z
+[Bob] Measured qubit 484/768: Result=0, Basis=X
+[Bob] Sent ACK_484
+[Alice] Sent qubit 485/768: Bit=1, Basis=X
+[Bob] Measured qubit 485/768: Result=1, Basis=Z
+[Bob] Sent ACK_485
+[Alice] Sent qubit 486/768: Bit=1, Basis=X
+[Bob] Measured qubit 486/768: Result=1, Basis=X
+[Bob] Sent ACK_486
+[Alice] Sent qubit 487/768: Bit=0, Basis=X
+[Bob] Measured qubit 487/768: Result=1, Basis=Z
+[Bob] Sent ACK_487
+[Alice] Sent qubit 488/768: Bit=0, Basis=Z
+[Bob] Measured qubit 488/768: Result=0, Basis=Z
+[Bob] Sent ACK_488
+[Alice] Sent qubit 489/768: Bit=1, Basis=X
+[Bob] Measured qubit 489/768: Result=1, Basis=X
+[Bob] Sent ACK_489
+[Alice] Sent qubit 490/768: Bit=1, Basis=Z
+[Bob] Measured qubit 490/768: Result=1, Basis=Z
+[Bob] Sent ACK_490
+[Alice] Sent qubit 491/768: Bit=1, Basis=X
+[Bob] Measured qubit 491/768: Result=1, Basis=X
+[Bob] Sent ACK_491
+[Alice] Sent qubit 492/768: Bit=1, Basis=X
+[Bob] Measured qubit 492/768: Result=1, Basis=X
+[Bob] Sent ACK_492
+[Alice] Sent qubit 493/768: Bit=1, Basis=Z
+[Bob] Measured qubit 493/768: Result=1, Basis=Z
+[Bob] Sent ACK_493
+[Alice] Sent qubit 494/768: Bit=0, Basis=X
+[Bob] Measured qubit 494/768: Result=0, Basis=Z
+[Bob] Sent ACK_494
+[Alice] Sent qubit 495/768: Bit=0, Basis=Z
+[Bob] Measured qubit 495/768: Result=0, Basis=X
+[Bob] Sent ACK_495
+[Alice] Sent qubit 496/768: Bit=1, Basis=Z
+[Bob] Measured qubit 496/768: Result=1, Basis=Z
+[Bob] Sent ACK_496
+[Alice] Sent qubit 497/768: Bit=0, Basis=Z
+[Bob] Measured qubit 497/768: Result=1, Basis=X
+[Bob] Sent ACK_497
+[Alice] Sent qubit 498/768: Bit=1, Basis=Z
+[Bob] Measured qubit 498/768: Result=0, Basis=X
+[Bob] Sent ACK_498
+[Alice] Sent qubit 499/768: Bit=1, Basis=Z
+[Bob] Measured qubit 499/768: Result=0, Basis=X
+[Bob] Sent ACK_499
+[Alice] Sent qubit 500/768: Bit=0, Basis=X
+[Bob] Measured qubit 500/768: Result=0, Basis=Z
+[Bob] Sent ACK_500
+[Alice] Sent qubit 501/768: Bit=0, Basis=X
+[Bob] Measured qubit 501/768: Result=1, Basis=Z
+[Bob] Sent ACK_501
+[Alice] Sent qubit 502/768: Bit=1, Basis=X
+[Bob] Measured qubit 502/768: Result=1, Basis=Z
+[Bob] Sent ACK_502
+[Alice] Sent qubit 503/768: Bit=1, Basis=X
+[Bob] Measured qubit 503/768: Result=1, Basis=Z
+[Bob] Sent ACK_503
+[Alice] Sent qubit 504/768: Bit=0, Basis=Z
+[Bob] Measured qubit 504/768: Result=0, Basis=Z
+[Bob] Sent ACK_504
+[Alice] Sent qubit 505/768: Bit=1, Basis=X
+[Bob] Measured qubit 505/768: Result=0, Basis=Z
+[Bob] Sent ACK_505
+[Alice] Sent qubit 506/768: Bit=1, Basis=Z
+[Bob] Measured qubit 506/768: Result=1, Basis=Z
+[Bob] Sent ACK_506
+[Alice] Sent qubit 507/768: Bit=1, Basis=X
+[Bob] Measured qubit 507/768: Result=1, Basis=X
+[Bob] Sent ACK_507
+[Alice] Sent qubit 508/768: Bit=0, Basis=Z
+[Bob] Measured qubit 508/768: Result=0, Basis=X
+[Bob] Sent ACK_508
+[Alice] Sent qubit 509/768: Bit=1, Basis=Z
+[Bob] Measured qubit 509/768: Result=1, Basis=Z
+[Bob] Sent ACK_509
+[Alice] Sent qubit 510/768: Bit=0, Basis=Z
+[Bob] Measured qubit 510/768: Result=0, Basis=X
+[Bob] Sent ACK_510
+[Alice] Sent qubit 511/768: Bit=1, Basis=X
+[Bob] Measured qubit 511/768: Result=1, Basis=Z
+[Bob] Sent ACK_511
+[Alice] Sent qubit 512/768: Bit=0, Basis=X
+[Bob] Measured qubit 512/768: Result=0, Basis=X
+[Bob] Sent ACK_512
+[Alice] Sent qubit 513/768: Bit=1, Basis=Z
+[Bob] Measured qubit 513/768: Result=1, Basis=X
+[Bob] Sent ACK_513
+[Alice] Sent qubit 514/768: Bit=1, Basis=Z
+[Bob] Measured qubit 514/768: Result=1, Basis=Z
+[Bob] Sent ACK_514
+[Alice] Sent qubit 515/768: Bit=1, Basis=X
+[Bob] Measured qubit 515/768: Result=0, Basis=Z
+[Bob] Sent ACK_515
+[Alice] Sent qubit 516/768: Bit=1, Basis=X
+[Bob] Measured qubit 516/768: Result=1, Basis=Z
+[Bob] Sent ACK_516
+[Alice] Sent qubit 517/768: Bit=0, Basis=Z
+[Bob] Measured qubit 517/768: Result=0, Basis=Z
+[Bob] Sent ACK_517
+[Alice] Sent qubit 518/768: Bit=1, Basis=X
+[Bob] Measured qubit 518/768: Result=0, Basis=Z
+[Bob] Sent ACK_518
+[Alice] Sent qubit 519/768: Bit=1, Basis=X
+[Bob] Measured qubit 519/768: Result=1, Basis=X
+[Bob] Sent ACK_519
+[Alice] Sent qubit 520/768: Bit=0, Basis=X
+[Bob] Measured qubit 520/768: Result=0, Basis=X
+[Bob] Sent ACK_520
+[Alice] Sent qubit 521/768: Bit=0, Basis=X
+[Bob] Measured qubit 521/768: Result=1, Basis=Z
+[Bob] Sent ACK_521
+[Alice] Sent qubit 522/768: Bit=0, Basis=X
+[Bob] Measured qubit 522/768: Result=0, Basis=X
+[Bob] Sent ACK_522
+[Alice] Sent qubit 523/768: Bit=0, Basis=X
+[Bob] Measured qubit 523/768: Result=0, Basis=Z
+[Bob] Sent ACK_523
+[Alice] Sent qubit 524/768: Bit=0, Basis=Z
+[Bob] Measured qubit 524/768: Result=0, Basis=Z
+[Bob] Sent ACK_524
+[Alice] Sent qubit 525/768: Bit=1, Basis=X
+[Bob] Measured qubit 525/768: Result=1, Basis=X
+[Bob] Sent ACK_525
+[Alice] Sent qubit 526/768: Bit=1, Basis=Z
+[Bob] Measured qubit 526/768: Result=1, Basis=Z
+[Bob] Sent ACK_526
+[Alice] Sent qubit 527/768: Bit=0, Basis=X
+[Bob] Measured qubit 527/768: Result=0, Basis=X
+[Bob] Sent ACK_527
+[Alice] Sent qubit 528/768: Bit=1, Basis=Z
+[Bob] Measured qubit 528/768: Result=1, Basis=Z
+[Bob] Sent ACK_528
+[Alice] Sent qubit 529/768: Bit=0, Basis=X
+[Bob] Measured qubit 529/768: Result=0, Basis=Z
+[Bob] Sent ACK_529
+[Alice] Sent qubit 530/768: Bit=0, Basis=X
+[Bob] Measured qubit 530/768: Result=0, Basis=X
+[Bob] Sent ACK_530
+[Alice] Sent qubit 531/768: Bit=1, Basis=X
+[Bob] Measured qubit 531/768: Result=1, Basis=X
+[Bob] Sent ACK_531
+[Alice] Sent qubit 532/768: Bit=0, Basis=X
+[Bob] Measured qubit 532/768: Result=0, Basis=X
+[Bob] Sent ACK_532
+[Alice] Sent qubit 533/768: Bit=1, Basis=Z
+[Bob] Measured qubit 533/768: Result=1, Basis=Z
+[Bob] Sent ACK_533
+[Alice] Sent qubit 534/768: Bit=1, Basis=X
+[Bob] Measured qubit 534/768: Result=0, Basis=Z
+[Bob] Sent ACK_534
+[Alice] Sent qubit 535/768: Bit=0, Basis=X
+[Bob] Measured qubit 535/768: Result=0, Basis=Z
+[Bob] Sent ACK_535
+[Alice] Sent qubit 536/768: Bit=0, Basis=Z
+[Bob] Measured qubit 536/768: Result=1, Basis=X
+[Bob] Sent ACK_536
+[Alice] Sent qubit 537/768: Bit=1, Basis=Z
+[Bob] Measured qubit 537/768: Result=0, Basis=X
+[Bob] Sent ACK_537
+[Alice] Sent qubit 538/768: Bit=0, Basis=Z
+[Bob] Measured qubit 538/768: Result=0, Basis=Z
+[Bob] Sent ACK_538
+[Alice] Sent qubit 539/768: Bit=1, Basis=X
+[Bob] Measured qubit 539/768: Result=1, Basis=X
+[Bob] Sent ACK_539
+[Alice] Sent qubit 540/768: Bit=0, Basis=X
+[Bob] Measured qubit 540/768: Result=0, Basis=X
+[Bob] Sent ACK_540
+[Alice] Sent qubit 541/768: Bit=0, Basis=Z
+[Bob] Measured qubit 541/768: Result=0, Basis=Z
+[Bob] Sent ACK_541
+[Alice] Sent qubit 542/768: Bit=1, Basis=Z
+[Bob] Measured qubit 542/768: Result=1, Basis=Z
+[Bob] Sent ACK_542
+[Alice] Sent qubit 543/768: Bit=1, Basis=Z
+[Bob] Measured qubit 543/768: Result=1, Basis=X
+[Bob] Sent ACK_543
+[Alice] Sent qubit 544/768: Bit=1, Basis=Z
+[Bob] Measured qubit 544/768: Result=1, Basis=Z
+[Bob] Sent ACK_544
+[Alice] Sent qubit 545/768: Bit=1, Basis=X
+[Bob] Measured qubit 545/768: Result=1, Basis=Z
+[Bob] Sent ACK_545
+[Alice] Sent qubit 546/768: Bit=0, Basis=X
+[Bob] Measured qubit 546/768: Result=0, Basis=Z
+[Bob] Sent ACK_546
+[Alice] Sent qubit 547/768: Bit=0, Basis=X
+[Bob] Measured qubit 547/768: Result=0, Basis=X
+[Bob] Sent ACK_547
+[Alice] Sent qubit 548/768: Bit=0, Basis=Z
+[Bob] Measured qubit 548/768: Result=0, Basis=X
+[Bob] Sent ACK_548
+[Alice] Sent qubit 549/768: Bit=0, Basis=Z
+[Bob] Measured qubit 549/768: Result=0, Basis=Z
+[Bob] Sent ACK_549
+[Alice] Sent qubit 550/768: Bit=1, Basis=Z
+[Bob] Measured qubit 550/768: Result=1, Basis=Z
+[Bob] Sent ACK_550
+[Alice] Sent qubit 551/768: Bit=1, Basis=X
+[Bob] Measured qubit 551/768: Result=0, Basis=Z
+[Bob] Sent ACK_551
+[Alice] Sent qubit 552/768: Bit=1, Basis=X
+[Bob] Measured qubit 552/768: Result=1, Basis=X
+[Bob] Sent ACK_552
+[Alice] Sent qubit 553/768: Bit=1, Basis=Z
+[Bob] Measured qubit 553/768: Result=0, Basis=X
+[Bob] Sent ACK_553
+[Alice] Sent qubit 554/768: Bit=0, Basis=Z
+[Bob] Measured qubit 554/768: Result=1, Basis=X
+[Bob] Sent ACK_554
+[Alice] Sent qubit 555/768: Bit=0, Basis=X
+[Bob] Measured qubit 555/768: Result=0, Basis=X
+[Bob] Sent ACK_555
+[Alice] Sent qubit 556/768: Bit=1, Basis=X
+[Bob] Measured qubit 556/768: Result=1, Basis=X
+[Bob] Sent ACK_556
+[Alice] Sent qubit 557/768: Bit=0, Basis=X
+[Bob] Measured qubit 557/768: Result=0, Basis=X
+[Bob] Sent ACK_557
+[Alice] Sent qubit 558/768: Bit=1, Basis=X
+[Bob] Measured qubit 558/768: Result=1, Basis=Z
+[Bob] Sent ACK_558
+[Alice] Sent qubit 559/768: Bit=0, Basis=X
+[Bob] Measured qubit 559/768: Result=0, Basis=X
+[Bob] Sent ACK_559
+[Alice] Sent qubit 560/768: Bit=0, Basis=Z
+[Bob] Measured qubit 560/768: Result=1, Basis=X
+[Bob] Sent ACK_560
+[Alice] Sent qubit 561/768: Bit=1, Basis=Z
+[Bob] Measured qubit 561/768: Result=1, Basis=Z
+[Bob] Sent ACK_561
+[Alice] Sent qubit 562/768: Bit=1, Basis=X
+[Bob] Measured qubit 562/768: Result=1, Basis=X
+[Bob] Sent ACK_562
+[Alice] Sent qubit 563/768: Bit=0, Basis=X
+[Bob] Measured qubit 563/768: Result=1, Basis=Z
+[Bob] Sent ACK_563
+[Alice] Sent qubit 564/768: Bit=1, Basis=Z
+[Bob] Measured qubit 564/768: Result=1, Basis=X
+[Bob] Sent ACK_564
+[Alice] Sent qubit 565/768: Bit=0, Basis=X
+[Bob] Measured qubit 565/768: Result=0, Basis=Z
+[Bob] Sent ACK_565
+[Alice] Sent qubit 566/768: Bit=1, Basis=X
+[Bob] Measured qubit 566/768: Result=1, Basis=X
+[Bob] Sent ACK_566
+[Alice] Sent qubit 567/768: Bit=1, Basis=X
+[Bob] Measured qubit 567/768: Result=1, Basis=X
+[Bob] Sent ACK_567
+[Alice] Sent qubit 568/768: Bit=1, Basis=X
+[Bob] Measured qubit 568/768: Result=0, Basis=Z
+[Bob] Sent ACK_568
+[Alice] Sent qubit 569/768: Bit=0, Basis=Z
+[Bob] Measured qubit 569/768: Result=0, Basis=Z
+[Bob] Sent ACK_569
+[Alice] Sent qubit 570/768: Bit=0, Basis=Z
+[Bob] Measured qubit 570/768: Result=0, Basis=X
+[Bob] Sent ACK_570
+[Alice] Sent qubit 571/768: Bit=1, Basis=Z
+[Bob] Measured qubit 571/768: Result=0, Basis=X
+[Bob] Sent ACK_571
+[Alice] Sent qubit 572/768: Bit=0, Basis=X
+[Bob] Measured qubit 572/768: Result=1, Basis=Z
+[Bob] Sent ACK_572
+[Alice] Sent qubit 573/768: Bit=1, Basis=X
+[Bob] Measured qubit 573/768: Result=1, Basis=X
+[Bob] Sent ACK_573
+[Alice] Sent qubit 574/768: Bit=1, Basis=Z
+[Bob] Measured qubit 574/768: Result=0, Basis=X
+[Bob] Sent ACK_574
+[Alice] Sent qubit 575/768: Bit=0, Basis=Z
+[Bob] Measured qubit 575/768: Result=0, Basis=X
+[Bob] Sent ACK_575
+[Alice] Sent qubit 576/768: Bit=0, Basis=X
+[Bob] Measured qubit 576/768: Result=0, Basis=X
+[Bob] Sent ACK_576
+[Alice] Sent qubit 577/768: Bit=1, Basis=Z
+[Bob] Measured qubit 577/768: Result=1, Basis=X
+[Bob] Sent ACK_577
+[Alice] Sent qubit 578/768: Bit=1, Basis=Z
+[Bob] Measured qubit 578/768: Result=1, Basis=Z
+[Bob] Sent ACK_578
+[Alice] Sent qubit 579/768: Bit=0, Basis=Z
+[Bob] Measured qubit 579/768: Result=0, Basis=Z
+[Bob] Sent ACK_579
+[Alice] Sent qubit 580/768: Bit=1, Basis=X
+[Bob] Measured qubit 580/768: Result=0, Basis=Z
+[Bob] Sent ACK_580
+[Alice] Sent qubit 581/768: Bit=1, Basis=X
+[Bob] Measured qubit 581/768: Result=1, Basis=Z
+[Bob] Sent ACK_581
+[Alice] Sent qubit 582/768: Bit=0, Basis=X
+[Bob] Measured qubit 582/768: Result=1, Basis=Z
+[Bob] Sent ACK_582
+[Alice] Sent qubit 583/768: Bit=1, Basis=X
+[Bob] Measured qubit 583/768: Result=1, Basis=X
+[Bob] Sent ACK_583
+[Alice] Sent qubit 584/768: Bit=0, Basis=Z
+[Bob] Measured qubit 584/768: Result=1, Basis=X
+[Bob] Sent ACK_584
+[Alice] Sent qubit 585/768: Bit=0, Basis=X
+[Bob] Measured qubit 585/768: Result=0, Basis=Z
+[Bob] Sent ACK_585
+[Alice] Sent qubit 586/768: Bit=0, Basis=Z
+[Bob] Measured qubit 586/768: Result=0, Basis=Z
+[Bob] Sent ACK_586
+[Alice] Sent qubit 587/768: Bit=0, Basis=X
+[Bob] Measured qubit 587/768: Result=0, Basis=X
+[Bob] Sent ACK_587
+[Alice] Sent qubit 588/768: Bit=0, Basis=X
+[Bob] Measured qubit 588/768: Result=0, Basis=X
+[Bob] Sent ACK_588
+[Alice] Sent qubit 589/768: Bit=0, Basis=Z
+[Bob] Measured qubit 589/768: Result=0, Basis=Z
+[Bob] Sent ACK_589
+[Alice] Sent qubit 590/768: Bit=0, Basis=X
+[Bob] Measured qubit 590/768: Result=0, Basis=X
+[Bob] Sent ACK_590
+[Alice] Sent qubit 591/768: Bit=0, Basis=Z
+[Bob] Measured qubit 591/768: Result=0, Basis=Z
+[Bob] Sent ACK_591
+[Alice] Sent qubit 592/768: Bit=1, Basis=Z
+[Bob] Measured qubit 592/768: Result=1, Basis=Z
+[Bob] Sent ACK_592
+[Alice] Sent qubit 593/768: Bit=0, Basis=Z
+[Bob] Measured qubit 593/768: Result=0, Basis=Z
+[Bob] Sent ACK_593
+[Alice] Sent qubit 594/768: Bit=1, Basis=X
+[Bob] Measured qubit 594/768: Result=1, Basis=X
+[Bob] Sent ACK_594
+[Alice] Sent qubit 595/768: Bit=0, Basis=Z
+[Bob] Measured qubit 595/768: Result=1, Basis=X
+[Bob] Sent ACK_595
+[Alice] Sent qubit 596/768: Bit=0, Basis=Z
+[Bob] Measured qubit 596/768: Result=0, Basis=Z
+[Bob] Sent ACK_596
+[Alice] Sent qubit 597/768: Bit=0, Basis=X
+[Bob] Measured qubit 597/768: Result=0, Basis=X
+[Bob] Sent ACK_597
+[Alice] Sent qubit 598/768: Bit=0, Basis=Z
+[Bob] Measured qubit 598/768: Result=1, Basis=X
+[Bob] Sent ACK_598
+[Alice] Sent qubit 599/768: Bit=0, Basis=X
+[Bob] Measured qubit 599/768: Result=0, Basis=X
+[Bob] Sent ACK_599
+[Alice] Sent qubit 600/768: Bit=1, Basis=X
+[Bob] Measured qubit 600/768: Result=1, Basis=X
+[Bob] Sent ACK_600
+[Alice] Sent qubit 601/768: Bit=1, Basis=Z
+[Bob] Measured qubit 601/768: Result=1, Basis=Z
+[Bob] Sent ACK_601
+[Alice] Sent qubit 602/768: Bit=1, Basis=X
+[Bob] Measured qubit 602/768: Result=1, Basis=Z
+[Bob] Sent ACK_602
+[Alice] Sent qubit 603/768: Bit=1, Basis=Z
+[Bob] Measured qubit 603/768: Result=1, Basis=Z
+[Bob] Sent ACK_603
+[Alice] Sent qubit 604/768: Bit=0, Basis=X
+[Bob] Measured qubit 604/768: Result=0, Basis=X
+[Bob] Sent ACK_604
+[Alice] Sent qubit 605/768: Bit=0, Basis=Z
+[Bob] Measured qubit 605/768: Result=0, Basis=Z
+[Bob] Sent ACK_605
+[Alice] Sent qubit 606/768: Bit=1, Basis=X
+[Bob] Measured qubit 606/768: Result=1, Basis=Z
+[Bob] Sent ACK_606
+[Alice] Sent qubit 607/768: Bit=1, Basis=Z
+[Bob] Measured qubit 607/768: Result=1, Basis=Z
+[Bob] Sent ACK_607
+[Alice] Sent qubit 608/768: Bit=1, Basis=Z
+[Bob] Measured qubit 608/768: Result=1, Basis=Z
+[Bob] Sent ACK_608
+[Alice] Sent qubit 609/768: Bit=0, Basis=X
+[Bob] Measured qubit 609/768: Result=0, Basis=X
+[Bob] Sent ACK_609
+[Alice] Sent qubit 610/768: Bit=0, Basis=X
+[Bob] Measured qubit 610/768: Result=0, Basis=X
+[Bob] Sent ACK_610
+[Alice] Sent qubit 611/768: Bit=0, Basis=Z
+[Bob] Measured qubit 611/768: Result=0, Basis=Z
+[Bob] Sent ACK_611
+[Alice] Sent qubit 612/768: Bit=1, Basis=X
+[Bob] Measured qubit 612/768: Result=1, Basis=X
+[Bob] Sent ACK_612
+[Alice] Sent qubit 613/768: Bit=0, Basis=Z
+[Bob] Measured qubit 613/768: Result=0, Basis=X
+[Bob] Sent ACK_613
+[Alice] Sent qubit 614/768: Bit=0, Basis=Z
+[Bob] Measured qubit 614/768: Result=0, Basis=Z
+[Bob] Sent ACK_614
+[Alice] Sent qubit 615/768: Bit=0, Basis=X
+[Bob] Measured qubit 615/768: Result=0, Basis=Z
+[Bob] Sent ACK_615
+[Alice] Sent qubit 616/768: Bit=0, Basis=X
+[Bob] Measured qubit 616/768: Result=0, Basis=Z
+[Bob] Sent ACK_616
+[Alice] Sent qubit 617/768: Bit=1, Basis=Z
+[Bob] Measured qubit 617/768: Result=1, Basis=Z
+[Bob] Sent ACK_617
+[Alice] Sent qubit 618/768: Bit=1, Basis=Z
+[Bob] Measured qubit 618/768: Result=1, Basis=X
+[Bob] Sent ACK_618
+[Alice] Sent qubit 619/768: Bit=0, Basis=X
+[Bob] Measured qubit 619/768: Result=0, Basis=X
+[Bob] Sent ACK_619
+[Alice] Sent qubit 620/768: Bit=1, Basis=X
+[Bob] Measured qubit 620/768: Result=1, Basis=X
+[Bob] Sent ACK_620
+[Alice] Sent qubit 621/768: Bit=1, Basis=Z
+[Bob] Measured qubit 621/768: Result=0, Basis=X
+[Bob] Sent ACK_621
+[Alice] Sent qubit 622/768: Bit=1, Basis=X
+[Bob] Measured qubit 622/768: Result=1, Basis=X
+[Bob] Sent ACK_622
+[Alice] Sent qubit 623/768: Bit=1, Basis=X
+[Bob] Measured qubit 623/768: Result=1, Basis=X
+[Bob] Sent ACK_623
+[Alice] Sent qubit 624/768: Bit=1, Basis=X
+[Bob] Measured qubit 624/768: Result=1, Basis=Z
+[Bob] Sent ACK_624
+[Alice] Sent qubit 625/768: Bit=0, Basis=Z
+[Bob] Measured qubit 625/768: Result=1, Basis=X
+[Bob] Sent ACK_625
+[Alice] Sent qubit 626/768: Bit=1, Basis=X
+[Bob] Measured qubit 626/768: Result=1, Basis=X
+[Bob] Sent ACK_626
+[Alice] Sent qubit 627/768: Bit=1, Basis=X
+[Bob] Measured qubit 627/768: Result=1, Basis=X
+[Bob] Sent ACK_627
+[Alice] Sent qubit 628/768: Bit=0, Basis=X
+[Bob] Measured qubit 628/768: Result=0, Basis=Z
+[Bob] Sent ACK_628
+[Alice] Sent qubit 629/768: Bit=1, Basis=X
+[Bob] Measured qubit 629/768: Result=0, Basis=Z
+[Bob] Sent ACK_629
+[Alice] Sent qubit 630/768: Bit=1, Basis=Z
+[Bob] Measured qubit 630/768: Result=1, Basis=X
+[Bob] Sent ACK_630
+[Alice] Sent qubit 631/768: Bit=0, Basis=X
+[Bob] Measured qubit 631/768: Result=0, Basis=X
+[Bob] Sent ACK_631
+[Alice] Sent qubit 632/768: Bit=1, Basis=X
+[Bob] Measured qubit 632/768: Result=0, Basis=Z
+[Bob] Sent ACK_632
+[Alice] Sent qubit 633/768: Bit=1, Basis=Z
+[Bob] Measured qubit 633/768: Result=1, Basis=X
+[Bob] Sent ACK_633
+[Alice] Sent qubit 634/768: Bit=0, Basis=Z
+[Bob] Measured qubit 634/768: Result=0, Basis=Z
+[Bob] Sent ACK_634
+[Alice] Sent qubit 635/768: Bit=0, Basis=Z
+[Bob] Measured qubit 635/768: Result=1, Basis=X
+[Bob] Sent ACK_635
+[Alice] Sent qubit 636/768: Bit=0, Basis=Z
+[Bob] Measured qubit 636/768: Result=0, Basis=Z
+[Bob] Sent ACK_636
+[Alice] Sent qubit 637/768: Bit=0, Basis=X
+[Bob] Measured qubit 637/768: Result=0, Basis=X
+[Bob] Sent ACK_637
+[Alice] Sent qubit 638/768: Bit=0, Basis=X
+[Bob] Measured qubit 638/768: Result=0, Basis=X
+[Bob] Sent ACK_638
+[Alice] Sent qubit 639/768: Bit=1, Basis=X
+[Bob] Measured qubit 639/768: Result=1, Basis=X
+[Bob] Sent ACK_639
+[Alice] Sent qubit 640/768: Bit=1, Basis=Z
+[Bob] Measured qubit 640/768: Result=1, Basis=Z
+[Bob] Sent ACK_640
+[Alice] Sent qubit 641/768: Bit=0, Basis=Z
+[Bob] Measured qubit 641/768: Result=0, Basis=Z
+[Bob] Sent ACK_641
+[Alice] Sent qubit 642/768: Bit=0, Basis=Z
+[Bob] Measured qubit 642/768: Result=0, Basis=Z
+[Bob] Sent ACK_642
+[Alice] Sent qubit 643/768: Bit=1, Basis=X
+[Bob] Measured qubit 643/768: Result=0, Basis=Z
+[Bob] Sent ACK_643
+[Alice] Sent qubit 644/768: Bit=0, Basis=Z
+[Bob] Measured qubit 644/768: Result=0, Basis=Z
+[Bob] Sent ACK_644
+[Alice] Sent qubit 645/768: Bit=0, Basis=X
+[Bob] Measured qubit 645/768: Result=0, Basis=X
+[Bob] Sent ACK_645
+[Alice] Sent qubit 646/768: Bit=0, Basis=Z
+[Bob] Measured qubit 646/768: Result=0, Basis=X
+[Bob] Sent ACK_646
+[Alice] Sent qubit 647/768: Bit=1, Basis=Z
+[Bob] Measured qubit 647/768: Result=1, Basis=Z
+[Bob] Sent ACK_647
+[Alice] Sent qubit 648/768: Bit=1, Basis=X
+[Bob] Measured qubit 648/768: Result=1, Basis=X
+[Bob] Sent ACK_648
+[Alice] Sent qubit 649/768: Bit=1, Basis=X
+[Bob] Measured qubit 649/768: Result=1, Basis=Z
+[Bob] Sent ACK_649
+[Alice] Sent qubit 650/768: Bit=0, Basis=X
+[Bob] Measured qubit 650/768: Result=0, Basis=X
+[Bob] Sent ACK_650
+[Alice] Sent qubit 651/768: Bit=0, Basis=Z
+[Bob] Measured qubit 651/768: Result=0, Basis=Z
+[Bob] Sent ACK_651
+[Alice] Sent qubit 652/768: Bit=1, Basis=Z
+[Bob] Measured qubit 652/768: Result=1, Basis=Z
+[Bob] Sent ACK_652
+[Alice] Sent qubit 653/768: Bit=0, Basis=Z
+[Bob] Measured qubit 653/768: Result=0, Basis=X
+[Bob] Sent ACK_653
+[Alice] Sent qubit 654/768: Bit=0, Basis=Z
+[Bob] Measured qubit 654/768: Result=0, Basis=Z
+[Bob] Sent ACK_654
+[Alice] Sent qubit 655/768: Bit=1, Basis=X
+[Bob] Measured qubit 655/768: Result=1, Basis=Z
+[Bob] Sent ACK_655
+[Alice] Sent qubit 656/768: Bit=0, Basis=X
+[Bob] Measured qubit 656/768: Result=0, Basis=Z
+[Bob] Sent ACK_656
+[Alice] Sent qubit 657/768: Bit=1, Basis=Z
+[Bob] Measured qubit 657/768: Result=1, Basis=X
+[Bob] Sent ACK_657
+[Alice] Sent qubit 658/768: Bit=0, Basis=Z
+[Bob] Measured qubit 658/768: Result=1, Basis=X
+[Bob] Sent ACK_658
+[Alice] Sent qubit 659/768: Bit=0, Basis=Z
+[Bob] Measured qubit 659/768: Result=0, Basis=Z
+[Bob] Sent ACK_659
+[Alice] Sent qubit 660/768: Bit=0, Basis=X
+[Bob] Measured qubit 660/768: Result=1, Basis=Z
+[Bob] Sent ACK_660
+[Alice] Sent qubit 661/768: Bit=0, Basis=Z
+[Bob] Measured qubit 661/768: Result=0, Basis=Z
+[Bob] Sent ACK_661
+[Alice] Sent qubit 662/768: Bit=0, Basis=X
+[Bob] Measured qubit 662/768: Result=1, Basis=Z
+[Bob] Sent ACK_662
+[Alice] Sent qubit 663/768: Bit=1, Basis=Z
+[Bob] Measured qubit 663/768: Result=1, Basis=X
+[Bob] Sent ACK_663
+[Alice] Sent qubit 664/768: Bit=0, Basis=X
+[Bob] Measured qubit 664/768: Result=0, Basis=Z
+[Bob] Sent ACK_664
+[Alice] Sent qubit 665/768: Bit=1, Basis=Z
+[Bob] Measured qubit 665/768: Result=0, Basis=X
+[Bob] Sent ACK_665
+[Alice] Sent qubit 666/768: Bit=0, Basis=X
+[Bob] Measured qubit 666/768: Result=0, Basis=X
+[Bob] Sent ACK_666
+[Alice] Sent qubit 667/768: Bit=0, Basis=X
+[Bob] Measured qubit 667/768: Result=0, Basis=X
+[Bob] Sent ACK_667
+[Alice] Sent qubit 668/768: Bit=1, Basis=X
+[Bob] Measured qubit 668/768: Result=1, Basis=Z
+[Bob] Sent ACK_668
+[Alice] Sent qubit 669/768: Bit=0, Basis=X
+[Bob] Measured qubit 669/768: Result=0, Basis=X
+[Bob] Sent ACK_669
+[Alice] Sent qubit 670/768: Bit=1, Basis=X
+[Bob] Measured qubit 670/768: Result=0, Basis=Z
+[Bob] Sent ACK_670
+[Alice] Sent qubit 671/768: Bit=0, Basis=Z
+[Bob] Measured qubit 671/768: Result=0, Basis=X
+[Bob] Sent ACK_671
+[Alice] Sent qubit 672/768: Bit=1, Basis=Z
+[Bob] Measured qubit 672/768: Result=0, Basis=X
+[Bob] Sent ACK_672
+[Alice] Sent qubit 673/768: Bit=1, Basis=X
+[Bob] Measured qubit 673/768: Result=1, Basis=X
+[Bob] Sent ACK_673
+[Alice] Sent qubit 674/768: Bit=1, Basis=Z
+[Bob] Measured qubit 674/768: Result=0, Basis=X
+[Bob] Sent ACK_674
+[Alice] Sent qubit 675/768: Bit=0, Basis=X
+[Bob] Measured qubit 675/768: Result=0, Basis=X
+[Bob] Sent ACK_675
+[Alice] Sent qubit 676/768: Bit=0, Basis=X
+[Bob] Measured qubit 676/768: Result=1, Basis=Z
+[Bob] Sent ACK_676
+[Alice] Sent qubit 677/768: Bit=0, Basis=X
+[Bob] Measured qubit 677/768: Result=0, Basis=X
+[Bob] Sent ACK_677
+[Alice] Sent qubit 678/768: Bit=0, Basis=Z
+[Bob] Measured qubit 678/768: Result=0, Basis=Z
+[Bob] Sent ACK_678
+[Alice] Sent qubit 679/768: Bit=0, Basis=X
+[Bob] Measured qubit 679/768: Result=1, Basis=Z
+[Bob] Sent ACK_679
+[Alice] Sent qubit 680/768: Bit=1, Basis=Z
+[Bob] Measured qubit 680/768: Result=1, Basis=X
+[Bob] Sent ACK_680
+[Alice] Sent qubit 681/768: Bit=1, Basis=Z
+[Bob] Measured qubit 681/768: Result=1, Basis=X
+[Bob] Sent ACK_681
+[Alice] Sent qubit 682/768: Bit=0, Basis=Z
+[Bob] Measured qubit 682/768: Result=0, Basis=Z
+[Bob] Sent ACK_682
+[Alice] Sent qubit 683/768: Bit=1, Basis=X
+[Bob] Measured qubit 683/768: Result=0, Basis=Z
+[Bob] Sent ACK_683
+[Alice] Sent qubit 684/768: Bit=1, Basis=X
+[Bob] Measured qubit 684/768: Result=1, Basis=Z
+[Bob] Sent ACK_684
+[Alice] Sent qubit 685/768: Bit=0, Basis=Z
+[Bob] Measured qubit 685/768: Result=0, Basis=Z
+[Bob] Sent ACK_685
+[Alice] Sent qubit 686/768: Bit=0, Basis=X
+[Bob] Measured qubit 686/768: Result=1, Basis=Z
+[Bob] Sent ACK_686
+[Alice] Sent qubit 687/768: Bit=0, Basis=Z
+[Bob] Measured qubit 687/768: Result=1, Basis=X
+[Bob] Sent ACK_687
+[Alice] Sent qubit 688/768: Bit=1, Basis=X
+[Bob] Measured qubit 688/768: Result=0, Basis=Z
+[Bob] Sent ACK_688
+[Alice] Sent qubit 689/768: Bit=1, Basis=X
+[Bob] Measured qubit 689/768: Result=0, Basis=Z
+[Bob] Sent ACK_689
+[Alice] Sent qubit 690/768: Bit=0, Basis=Z
+[Bob] Measured qubit 690/768: Result=0, Basis=X
+[Bob] Sent ACK_690
+[Alice] Sent qubit 691/768: Bit=1, Basis=Z
+[Bob] Measured qubit 691/768: Result=0, Basis=X
+[Bob] Sent ACK_691
+[Alice] Sent qubit 692/768: Bit=0, Basis=X
+[Bob] Measured qubit 692/768: Result=0, Basis=X
+[Bob] Sent ACK_692
+[Alice] Sent qubit 693/768: Bit=1, Basis=Z
+[Bob] Measured qubit 693/768: Result=1, Basis=X
+[Bob] Sent ACK_693
+[Alice] Sent qubit 694/768: Bit=1, Basis=Z
+[Bob] Measured qubit 694/768: Result=1, Basis=Z
+[Bob] Sent ACK_694
+[Alice] Sent qubit 695/768: Bit=1, Basis=X
+[Bob] Measured qubit 695/768: Result=1, Basis=Z
+[Bob] Sent ACK_695
+[Alice] Sent qubit 696/768: Bit=1, Basis=X
+[Bob] Measured qubit 696/768: Result=1, Basis=X
+[Bob] Sent ACK_696
+[Alice] Sent qubit 697/768: Bit=0, Basis=Z
+[Bob] Measured qubit 697/768: Result=1, Basis=X
+[Bob] Sent ACK_697
+[Alice] Sent qubit 698/768: Bit=1, Basis=X
+[Bob] Measured qubit 698/768: Result=1, Basis=Z
+[Bob] Sent ACK_698
+[Alice] Sent qubit 699/768: Bit=0, Basis=X
+[Bob] Measured qubit 699/768: Result=0, Basis=X
+[Bob] Sent ACK_699
+[Alice] Sent qubit 700/768: Bit=1, Basis=Z
+[Bob] Measured qubit 700/768: Result=0, Basis=X
+[Bob] Sent ACK_700
+[Alice] Sent qubit 701/768: Bit=1, Basis=Z
+[Bob] Measured qubit 701/768: Result=1, Basis=Z
+[Bob] Sent ACK_701
+[Alice] Sent qubit 702/768: Bit=0, Basis=Z
+[Bob] Measured qubit 702/768: Result=0, Basis=X
+[Bob] Sent ACK_702
+[Alice] Sent qubit 703/768: Bit=1, Basis=Z
+[Bob] Measured qubit 703/768: Result=0, Basis=X
+[Bob] Sent ACK_703
+[Alice] Sent qubit 704/768: Bit=1, Basis=Z
+[Bob] Measured qubit 704/768: Result=1, Basis=Z
+[Bob] Sent ACK_704
+[Alice] Sent qubit 705/768: Bit=1, Basis=Z
+[Bob] Measured qubit 705/768: Result=1, Basis=Z
+[Bob] Sent ACK_705
+[Alice] Sent qubit 706/768: Bit=0, Basis=X
+[Bob] Measured qubit 706/768: Result=1, Basis=Z
+[Bob] Sent ACK_706
+[Alice] Sent qubit 707/768: Bit=1, Basis=X
+[Bob] Measured qubit 707/768: Result=1, Basis=X
+[Bob] Sent ACK_707
+[Alice] Sent qubit 708/768: Bit=0, Basis=X
+[Bob] Measured qubit 708/768: Result=1, Basis=Z
+[Bob] Sent ACK_708
+[Alice] Sent qubit 709/768: Bit=1, Basis=X
+[Bob] Measured qubit 709/768: Result=1, Basis=Z
+[Bob] Sent ACK_709
+[Alice] Sent qubit 710/768: Bit=0, Basis=Z
+[Bob] Measured qubit 710/768: Result=0, Basis=X
+[Bob] Sent ACK_710
+[Alice] Sent qubit 711/768: Bit=1, Basis=Z
+[Bob] Measured qubit 711/768: Result=1, Basis=Z
+[Bob] Sent ACK_711
+[Alice] Sent qubit 712/768: Bit=0, Basis=X
+[Bob] Measured qubit 712/768: Result=0, Basis=Z
+[Bob] Sent ACK_712
+[Alice] Sent qubit 713/768: Bit=0, Basis=Z
+[Bob] Measured qubit 713/768: Result=0, Basis=Z
+[Bob] Sent ACK_713
+[Alice] Sent qubit 714/768: Bit=0, Basis=X
+[Bob] Measured qubit 714/768: Result=0, Basis=Z
+[Bob] Sent ACK_714
+[Alice] Sent qubit 715/768: Bit=0, Basis=Z
+[Bob] Measured qubit 715/768: Result=1, Basis=X
+[Bob] Sent ACK_715
+[Alice] Sent qubit 716/768: Bit=0, Basis=X
+[Bob] Measured qubit 716/768: Result=0, Basis=X
+[Bob] Sent ACK_716
+[Alice] Sent qubit 717/768: Bit=0, Basis=Z
+[Bob] Measured qubit 717/768: Result=1, Basis=X
+[Bob] Sent ACK_717
+[Alice] Sent qubit 718/768: Bit=1, Basis=X
+[Bob] Measured qubit 718/768: Result=1, Basis=X
+[Bob] Sent ACK_718
+[Alice] Sent qubit 719/768: Bit=0, Basis=X
+[Bob] Measured qubit 719/768: Result=0, Basis=X
+[Bob] Sent ACK_719
+[Alice] Sent qubit 720/768: Bit=0, Basis=X
+[Bob] Measured qubit 720/768: Result=0, Basis=X
+[Bob] Sent ACK_720
+[Alice] Sent qubit 721/768: Bit=1, Basis=Z
+[Bob] Measured qubit 721/768: Result=1, Basis=X
+[Bob] Sent ACK_721
+[Alice] Sent qubit 722/768: Bit=1, Basis=X
+[Bob] Measured qubit 722/768: Result=1, Basis=X
+[Bob] Sent ACK_722
+[Alice] Sent qubit 723/768: Bit=0, Basis=X
+[Bob] Measured qubit 723/768: Result=0, Basis=Z
+[Bob] Sent ACK_723
+[Alice] Sent qubit 724/768: Bit=1, Basis=Z
+[Bob] Measured qubit 724/768: Result=1, Basis=Z
+[Bob] Sent ACK_724
+[Alice] Sent qubit 725/768: Bit=1, Basis=X
+[Bob] Measured qubit 725/768: Result=1, Basis=Z
+[Bob] Sent ACK_725
+[Alice] Sent qubit 726/768: Bit=1, Basis=Z
+[Bob] Measured qubit 726/768: Result=1, Basis=Z
+[Bob] Sent ACK_726
+[Alice] Sent qubit 727/768: Bit=1, Basis=Z
+[Bob] Measured qubit 727/768: Result=1, Basis=Z
+[Bob] Sent ACK_727
+[Alice] Sent qubit 728/768: Bit=0, Basis=X
+[Bob] Measured qubit 728/768: Result=0, Basis=X
+[Bob] Sent ACK_728
+[Alice] Sent qubit 729/768: Bit=1, Basis=X
+[Bob] Measured qubit 729/768: Result=1, Basis=X
+[Bob] Sent ACK_729
+[Alice] Sent qubit 730/768: Bit=0, Basis=Z
+[Bob] Measured qubit 730/768: Result=0, Basis=Z
+[Bob] Sent ACK_730
+[Alice] Sent qubit 731/768: Bit=0, Basis=Z
+[Bob] Measured qubit 731/768: Result=0, Basis=Z
+[Bob] Sent ACK_731
+[Alice] Sent qubit 732/768: Bit=1, Basis=Z
+[Bob] Measured qubit 732/768: Result=1, Basis=Z
+[Bob] Sent ACK_732
+[Alice] Sent qubit 733/768: Bit=1, Basis=Z
+[Bob] Measured qubit 733/768: Result=1, Basis=Z
+[Bob] Sent ACK_733
+[Alice] Sent qubit 734/768: Bit=0, Basis=Z
+[Bob] Measured qubit 734/768: Result=0, Basis=X
+[Bob] Sent ACK_734
+[Alice] Sent qubit 735/768: Bit=0, Basis=X
+[Bob] Measured qubit 735/768: Result=0, Basis=Z
+[Bob] Sent ACK_735
+[Alice] Sent qubit 736/768: Bit=0, Basis=X
+[Bob] Measured qubit 736/768: Result=0, Basis=Z
+[Bob] Sent ACK_736
+[Alice] Sent qubit 737/768: Bit=0, Basis=Z
+[Bob] Measured qubit 737/768: Result=0, Basis=Z
+[Bob] Sent ACK_737
+[Alice] Sent qubit 738/768: Bit=1, Basis=Z
+[Bob] Measured qubit 738/768: Result=1, Basis=X
+[Bob] Sent ACK_738
+[Alice] Sent qubit 739/768: Bit=0, Basis=Z
+[Bob] Measured qubit 739/768: Result=1, Basis=X
+[Bob] Sent ACK_739
+[Alice] Sent qubit 740/768: Bit=1, Basis=Z
+[Bob] Measured qubit 740/768: Result=1, Basis=X
+[Bob] Sent ACK_740
+[Alice] Sent qubit 741/768: Bit=0, Basis=X
+[Bob] Measured qubit 741/768: Result=0, Basis=X
+[Bob] Sent ACK_741
+[Alice] Sent qubit 742/768: Bit=1, Basis=Z
+[Bob] Measured qubit 742/768: Result=1, Basis=Z
+[Bob] Sent ACK_742
+[Alice] Sent qubit 743/768: Bit=1, Basis=Z
+[Bob] Measured qubit 743/768: Result=1, Basis=Z
+[Bob] Sent ACK_743
+[Alice] Sent qubit 744/768: Bit=1, Basis=Z
+[Bob] Measured qubit 744/768: Result=1, Basis=Z
+[Bob] Sent ACK_744
+[Alice] Sent qubit 745/768: Bit=1, Basis=Z
+[Bob] Measured qubit 745/768: Result=1, Basis=Z
+[Bob] Sent ACK_745
+[Alice] Sent qubit 746/768: Bit=1, Basis=X
+[Bob] Measured qubit 746/768: Result=1, Basis=X
+[Bob] Sent ACK_746
+[Alice] Sent qubit 747/768: Bit=0, Basis=X
+[Bob] Measured qubit 747/768: Result=1, Basis=Z
+[Bob] Sent ACK_747
+[Alice] Sent qubit 748/768: Bit=1, Basis=X
+[Bob] Measured qubit 748/768: Result=1, Basis=X
+[Bob] Sent ACK_748
+[Alice] Sent qubit 749/768: Bit=1, Basis=X
+[Bob] Measured qubit 749/768: Result=1, Basis=X
+[Bob] Sent ACK_749
+[Alice] Sent qubit 750/768: Bit=1, Basis=Z
+[Bob] Measured qubit 750/768: Result=0, Basis=X
+[Bob] Sent ACK_750
+[Alice] Sent qubit 751/768: Bit=1, Basis=Z
+[Bob] Measured qubit 751/768: Result=1, Basis=Z
+[Bob] Sent ACK_751
+[Alice] Sent qubit 752/768: Bit=1, Basis=X
+[Bob] Measured qubit 752/768: Result=0, Basis=Z
+[Bob] Sent ACK_752
+[Alice] Sent qubit 753/768: Bit=1, Basis=Z
+[Bob] Measured qubit 753/768: Result=1, Basis=X
+[Bob] Sent ACK_753
+[Alice] Sent qubit 754/768: Bit=1, Basis=Z
+[Bob] Measured qubit 754/768: Result=1, Basis=Z
+[Bob] Sent ACK_754
+[Alice] Sent qubit 755/768: Bit=1, Basis=Z
+[Bob] Measured qubit 755/768: Result=1, Basis=X
+[Bob] Sent ACK_755
+[Alice] Sent qubit 756/768: Bit=0, Basis=Z
+[Bob] Measured qubit 756/768: Result=0, Basis=X
+[Bob] Sent ACK_756
+[Alice] Sent qubit 757/768: Bit=1, Basis=X
+[Bob] Measured qubit 757/768: Result=1, Basis=X
+[Bob] Sent ACK_757
+[Alice] Sent qubit 758/768: Bit=1, Basis=X
+[Bob] Measured qubit 758/768: Result=0, Basis=Z
+[Bob] Sent ACK_758
+[Alice] Sent qubit 759/768: Bit=0, Basis=X
+[Bob] Measured qubit 759/768: Result=1, Basis=Z
+[Bob] Sent ACK_759
+[Alice] Sent qubit 760/768: Bit=1, Basis=X
+[Bob] Measured qubit 760/768: Result=1, Basis=X
+[Bob] Sent ACK_760
+[Alice] Sent qubit 761/768: Bit=0, Basis=Z
+[Bob] Measured qubit 761/768: Result=0, Basis=X
+[Bob] Sent ACK_761
+[Alice] Sent qubit 762/768: Bit=1, Basis=Z
+[Bob] Measured qubit 762/768: Result=1, Basis=X
+[Bob] Sent ACK_762
+[Alice] Sent qubit 763/768: Bit=0, Basis=X
+[Bob] Measured qubit 763/768: Result=0, Basis=Z
+[Bob] Sent ACK_763
+[Alice] Sent qubit 764/768: Bit=1, Basis=Z
+[Bob] Measured qubit 764/768: Result=0, Basis=X
+[Bob] Sent ACK_764
+[Alice] Sent qubit 765/768: Bit=1, Basis=X
+[Bob] Measured qubit 765/768: Result=1, Basis=Z
+[Bob] Sent ACK_765
+[Alice] Sent qubit 766/768: Bit=1, Basis=Z
+[Bob] Measured qubit 766/768: Result=1, Basis=Z
+[Bob] Sent ACK_766
+[Alice] Sent qubit 767/768: Bit=1, Basis=X
+[Bob] Measured qubit 767/768: Result=1, Basis=X
+[Bob] Sent ACK_767
+[Alice] Sent qubit 768/768: Bit=0, Basis=Z
+[Bob] Measured qubit 768/768: Result=0, Basis=Z
+[Bob] Sent ACK_768
+[Bob] Sending bases to Alice...
+[Alice] Waiting for Bob's bases...
+[Alice] Received Bob's bases: ['X', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'X', 'X', 'Z', 'X', 'X', 'X', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'X', 'Z', 'X', 'Z', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'X', 'X', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'X', 'X', 'X', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'X', 'X', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'X', 'X', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'X', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'X', 'X', 'X', 'X', 'X', 'X', 'Z', 'X', 'X', 'X', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'X', 'Z', 'Z', 'X', 'X', 'X', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'X', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'X', 'X', 'X', 'X', 'X', 'X', 'Z', 'X', 'X', 'X', 'Z', 'X', 'X', 'X', 'X', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'X', 'X', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'X', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'X', 'X', 'X', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'X', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'X', 'X', 'X', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'X', 'Z', 'X', 'Z', 'X', 'X', 'X', 'X', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'Z', 'Z', 'X', 'X', 'X', 'X', 'Z', 'Z', 'X', 'X', 'Z', 'X', 'X', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'X', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'X', 'X', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'Z', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'Z', 'Z', 'Z', 'X', 'X', 'X', 'X', 'Z', 'Z', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'X', 'Z', 'X', 'X', 'X', 'Z', 'Z', 'X', 'X', 'X', 'Z', 'X', 'Z', 'Z', 'X', 'Z']
+[Alice] Initial sifted positions: [0, 3, 8, 9, 11, 12, 14, 15, 23, 24, 26, 27, 28, 31, 32, 35, 38, 39, 42, 43, 44, 45, 46, 47, 49, 50, 52, 55, 57, 58, 60, 61, 63, 65, 66, 67, 69, 74, 75, 77, 79, 80, 85, 89, 90, 92, 93, 94, 95, 96, 98, 99, 102, 104, 105, 109, 110, 111, 112, 116, 121, 122, 123, 126, 129, 130, 131, 132, 138, 139, 141, 142, 144, 145, 148, 150, 152, 155, 156, 157, 159, 160, 163, 169, 170, 171, 173, 174, 180, 183, 186, 187, 188, 192, 195, 196, 199, 200, 201, 202, 203, 205, 206, 207, 209, 210, 212, 213, 215, 216, 217, 218, 219, 221, 226, 227, 230, 232, 233, 234, 235, 236, 241, 243, 244, 246, 247, 248, 249, 252, 253, 254, 258, 259, 260, 261, 265, 266, 268, 273, 275, 276, 277, 284, 288, 290, 291, 292, 294, 297, 298, 299, 302, 304, 305, 307, 309, 310, 314, 315, 316, 317, 320, 322, 323, 324, 329, 330, 336, 337, 340, 345, 350, 352, 354, 355, 356, 359, 360, 362, 363, 368, 374, 375, 377, 378, 379, 380, 382, 383, 387, 388, 389, 399, 400, 406, 407, 410, 412, 415, 417, 418, 419, 423, 426, 428, 429, 430, 432, 433, 434, 435, 440, 441, 442, 443, 444, 447, 451, 453, 454, 455, 459, 461, 462, 463, 466, 467, 468, 469, 471, 472, 473, 474, 475, 478, 480, 481, 485, 487, 488, 489, 490, 491, 492, 495, 503, 505, 506, 508, 511, 513, 516, 518, 519, 521, 523, 524, 525, 526, 527, 529, 530, 531, 532, 537, 538, 539, 540, 541, 543, 546, 548, 549, 551, 554, 555, 556, 558, 560, 561, 565, 566, 568, 572, 575, 577, 578, 582, 585, 586, 587, 588, 589, 590, 591, 592, 593, 595, 596, 598, 599, 600, 602, 603, 604, 606, 607, 608, 609, 610, 611, 613, 616, 618, 619, 621, 622, 625, 626, 630, 633, 635, 636, 637, 638, 639, 640, 641, 643, 644, 646, 647, 649, 650, 651, 653, 658, 660, 665, 666, 668, 672, 674, 676, 677, 681, 684, 691, 693, 695, 698, 700, 703, 704, 706, 710, 712, 715, 717, 718, 719, 721, 723, 725, 726, 727, 728, 729, 730, 731, 732, 736, 740, 741, 742, 743, 744, 745, 747, 748, 750, 753, 756, 759, 765, 766, 767]
+[42, 532, 314, 766, 12, 46, 674, 490, 110, 8, 681, 767, 99, 152, 721, 55, 607, 362, 374, 740, 653, 548, 275, 292, 459, 310, 79, 47, 32, 592, 475, 525, 186, 598, 537, 95, 80, 266, 15, 745, 508, 412, 750, 141, 643, 268, 378, 148, 415, 453, 244, 227, 588, 320, 526, 609, 354, 156, 92, 160, 294, 28, 350, 215, 89, 599, 593, 731, 233, 31, 236, 489, 174, 252, 112, 485, 610, 360] <class 'list'>
+[Alice] Final sifted basis, Random Selection and Corresponding Bits: 0 3 9 11 14 23 24 26 27 35 38 39 43 44 45 49 50 52 57 58 60 61 63 65 66 67 69 74 75 77 85 90 93 94 96 98 102 104 105 109 111 116 121 122 123 126 129 130 131 132 138 139 142 144 145 150 155 157 159 163 169 170 171 173 180 183 187 188 192 195 196 199 200 201 202 203 205 206 207 209 210 212 213 216 217 218 219 221 226 230 232 234 235 241 243 246 247 248 249 253 254 258 259 260 261 265 273 276 277 284 288 290 291 297 298 299 302 304 305 307 309 315 316 317 322 323 324 329 330 336 337 340 345 352 355 356 359 363 368 375 377 379 380 382 383 387 388 389 399 400 406 407 410 417 418 419 423 426 428 429 430 432 433 434 435 440 441 442 443 444 447 451 454 455 461 462 463 466 467 468 469 471 472 473 474 478 480 481 487 488 491 492 495 503 505 506 511 513 516 518 519 521 523 524 527 529 530 531 538 539 540 541 543 546 549 551 554 555 556 558 560 561 565 566 568 572 575 577 578 582 585 586 587 589 590 591 595 596 600 602 603 604 606 608 611 613 616 618 619 621 622 625 626 630 633 635 636 637 638 639 640 641 644 646 647 649 650 651 658 660 665 666 668 672 676 677 684 691 693 695 698 700 703 704 706 710 712 715 717 718 719 723 725 726 727 728 729 730 732 736 741 742 743 744 747 748 753 756 759 765|42 532 314 766 12 46 674 490 110 8 681 767 99 152 721 55 607 362 374 740 653 548 275 292 459 310 79 47 32 592 475 525 186 598 537 95 80 266 15 745 508 412 750 141 643 268 378 148 415 453 244 227 588 320 526 609 354 156 92 160 294 28 350 215 89 599 593 731 233 31 236 489 174 252 112 485 610 360|111100011000011010100001111100010001000111110000110001001100011101110001000100
+[Alice] Selected values sent to Bob.
+Sifted Basis: [0, 3, 9, 11, 14, 23, 24, 26, 27, 35, 38, 39, 43, 44, 45, 49, 50, 52, 57, 58, 60, 61, 63, 65, 66, 67, 69, 74, 75, 77, 85, 90, 93, 94, 96, 98, 102, 104, 105, 109, 111, 116, 121, 122, 123, 126, 129, 130, 131, 132, 138, 139, 142, 144, 145, 150, 155, 157, 159, 163, 169, 170, 171, 173, 180, 183, 187, 188, 192, 195, 196, 199, 200, 201, 202, 203, 205, 206, 207, 209, 210, 212, 213, 216, 217, 218, 219, 221, 226, 230, 232, 234, 235, 241, 243, 246, 247, 248, 249, 253, 254, 258, 259, 260, 261, 265, 273, 276, 277, 284, 288, 290, 291, 297, 298, 299, 302, 304, 305, 307, 309, 315, 316, 317, 322, 323, 324, 329, 330, 336, 337, 340, 345, 352, 355, 356, 359, 363, 368, 375, 377, 379, 380, 382, 383, 387, 388, 389, 399, 400, 406, 407, 410, 417, 418, 419, 423, 426, 428, 429, 430, 432, 433, 434, 435, 440, 441, 442, 443, 444, 447, 451, 454, 455, 461, 462, 463, 466, 467, 468, 469, 471, 472, 473, 474, 478, 480, 481, 487, 488, 491, 492, 495, 503, 505, 506, 511, 513, 516, 518, 519, 521, 523, 524, 527, 529, 530, 531, 538, 539, 540, 541, 543, 546, 549, 551, 554, 555, 556, 558, 560, 561, 565, 566, 568, 572, 575, 577, 578, 582, 585, 586, 587, 589, 590, 591, 595, 596, 600, 602, 603, 604, 606, 608, 611, 613, 616, 618, 619, 621, 622, 625, 626, 630, 633, 635, 636, 637, 638, 639, 640, 641, 644, 646, 647, 649, 650, 651, 658, 660, 665, 666, 668, 672, 676, 677, 684, 691, 693, 695, 698, 700, 703, 704, 706, 710, 712, 715, 717, 718, 719, 723, 725, 726, 727, 728, 729, 730, 732, 736, 741, 742, 743, 744, 747, 748, 753, 756, 759, 765]
+Random Selection: [42, 532, 314, 766, 12, 46, 674, 490, 110, 8, 681, 767, 99, 152, 721, 55, 607, 362, 374, 740, 653, 548, 275, 292, 459, 310, 79, 47, 32, 592, 475, 525, 186, 598, 537, 95, 80, 266, 15, 745, 508, 412, 750, 141, 643, 268, 378, 148, 415, 453, 244, 227, 588, 320, 526, 609, 354, 156, 92, 160, 294, 28, 350, 215, 89, 599, 593, 731, 233, 31, 236, 489, 174, 252, 112, 485, 610, 360]
+Corresponding Bits: 111100011000011010100001111100010001000111110000110001001100011101110001000100
+Difference: 0.0 %
+[Bob] Encryption Key: Valid
+[Alice] Secure communication of the Encryption Key: Successful
+
+--- Matrix Summary ---
+
+--- Alice's Measurement Matrix ---
+Bit #   Basis   Bit
+[[1 'X' 0]
+ [2 'X' 0]
+ [3 'X' 0]
+ ...
+ [766 'Z' 1]
+ [767 'X' 1]
+ [768 'Z' 0]]
+
+--- Bob's Measurement Matrix ---
+Bit #   Basis   Bit
+[[1 'X' 0]
+ [2 'Z' 0]
+ [3 'Z' 1]
+ ...
+ [766 'Z' 1]
+ [767 'X' 1]
+ [768 'Z' 0]]
+
+--- Sifted Key ---
+Alice's Encryption Key: 0010100001001001001110000110001111110110100111100011101000111110010000100001000000100001110001001101100100011111001011101111010101001010000111001001110000011100110101110000101100011110110001111011010100011010100110110100111101010100000100110010101011111000
+Bob's Encryption Key: 0010100001001001001110000110001111110110100111100011101000111110010000100001000000100001110001001101100100011111001011101111010101001010000111001001110000011100110101110000101100011110110001111011010100011010100110110100111101010100000100110010101011111000
